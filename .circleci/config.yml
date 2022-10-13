@@ -1,7 +1,7 @@
 version: 2.1 # use CircleCI 2.1
 orbs:
-   node: circleci/node@5.0.0 # Needed for javascript runtime
-   heroku: circleci/heroku@1.0.1 # Use the Heroku orb in your config
+   node: circleci/node@4.7 # Needed for javascript runtime
+   heroku: circleci/heroku@1.2.6 # Use the Heroku orb in your config
 jobs: # a collection of steps
   build-and-test: # runs not using Workflows must have a `build` job as entry point
     docker: # run the steps with Docker
@@ -48,8 +48,20 @@ jobs: # a collection of steps
           path: test_results
       # See https://circleci.com/docs/2.0/deployment-integrations/ for example deploy configs
 workflows:
+  deploy:
+          requires:
+            - build_and_test # only deploy if the build_and_test job has completed
+          filters:
+            branches:
+              only: main # only deploy when on main
   build-test-deploy:
     jobs:
+      deploy:
+          requires:
+            - build_and_test # only deploy if the build_and_test job has completed
+          filters:
+            branches:
+              only: main # only deploy when on main
       - build-and-test
       - heroku/deploy-via-git: # Use the pre-configured job, deploy-via-git
           requires:

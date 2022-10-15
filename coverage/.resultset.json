@@ -212,25 +212,13 @@
           null
         ]
       },
-      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/spec/test_spec.rb": {
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/app/services/catalog_service.rb": {
         "lines": [
           1,
-          null,
-          1,
-          null,
           1,
           1,
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/app/services/map_service.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
+          0,
+          0,
           0,
           0,
           0,
@@ -242,14 +230,12 @@
           null,
           1,
           0,
-          null,
-          null,
           null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1665867363
+    "timestamp": 1665872800
   }
 }

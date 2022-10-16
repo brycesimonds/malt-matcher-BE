@@ -11,7 +11,7 @@ class MapService
       JSON.parse(response.body, symbolize_names: true)
     end
 
-    def get_breweries(location)
+    def get_location(location)
       get_url("/geocoding/v1/address", location) 
     end
 

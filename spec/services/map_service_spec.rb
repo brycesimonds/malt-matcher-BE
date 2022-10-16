@@ -6,9 +6,9 @@ RSpec.describe 'Map Quest API' do
   let!(:fixture) { File.read('./spec/fixtures/map_call.json')}
 
   it 'returns location information based on city/state keyword search', :vcr do 
-    allow(MapService).to receive(:get_breweries).and_return(JSON.parse(fixture, symbolize_names: true))
+    allow(MapService).to receive(:get_location).and_return(JSON.parse(fixture, symbolize_names: true))
 
-    location_information = MapService.get_breweries(city_state)
+    location_information = MapService.get_location(city_state)
     lat_long = location_information[:results][0][:locations][0]
 
     expect(location_information).to be_a(Hash)

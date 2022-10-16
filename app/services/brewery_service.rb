@@ -13,8 +13,5 @@ class BreweryService
     def get_breweries(location)
       get_url("/geocoding/v1/address", location) 
     end
-
   end
-
-
 end 

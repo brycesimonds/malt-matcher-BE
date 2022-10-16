@@ -14,11 +14,16 @@ module Types
       "Hello World!"
     end
 
-    field :breweries, [Types::BreweryType], null: false do 
+    field :breweries, [Types::BreweryType], null: false do
+      argument :location, String, required: true
+      argument :radius, String, required: true
     end 
 
-    def breweries 
-      Brewery.all
+    def breweries(location:, radius:)
+      brewery_location = MapService.get_location(location)
+      lat = brewery_location[:results].first[:locations].first[:latLng][:lat]
+      lon = brewery_location[:results].first[:locations].first[:latLng][:lng]
+      find_breweries = CatalogFacade.breweries(lat, lon, radius)
     end
   end
 end

@@ -212,30 +212,246 @@
           null
         ]
       },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/app/facades/catalog_facade.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          12,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/spec/models/beer_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/app/models/beer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/spec/models/brewery_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/app/models/brewery.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/spec/models/user_spec.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/spec/poros/bar_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/app/poros/bar.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          null,
+          null,
+          1,
+          12,
+          null,
+          null,
+          1,
+          12,
+          null,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/spec/services/catalog_service_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/spec/services/map_service_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/spec/test_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null
+        ]
+      },
       "/Users/tigo/Turing/4Module/projects/malt-matcher-BE/app/services/catalog_service.rb": {
         "lines": [
           1,
           1,
           1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          null,
-          null,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
           null,
           1,
-          0,
+          1,
+          null,
+          null,
+          1,
+          1,
           null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1665872800
+    "timestamp": 1665881442
   }
 }

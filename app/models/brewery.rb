@@ -9,5 +9,5 @@ class Brewery < ApplicationRecord
   validates_presence_of :instagram
   validates_presence_of :facebook
   validates_presence_of :twitter
-  validates_presence_of :brewery_description
+  # validates_presence_of :brewery_description, null:true
 end

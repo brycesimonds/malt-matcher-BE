@@ -5,9 +5,12 @@ module Types
     field :name, String, null: true
     field :address, String, null: true 
     field :distance_from_user, Integer, null: true 
-    field :social_medias, String, null: true
+    field :website, String, null: true
+    field :instagram, String, null: true
+    field :facebook, String, null: true
+    field :twitter, String, null: true
     field :brewery_description, String, null: true
-    # field :brewery_id, String, null: true 
+    field :catalog_brewery_id, String, null: true 
   end
 end
 

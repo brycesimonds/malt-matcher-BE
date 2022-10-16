@@ -13,5 +13,12 @@ module Types
     def test_field
       "Hello World!"
     end
+
+    field :breweries, [Types::BreweryType], null: false do 
+    end 
+
+    def breweries 
+      Brewery.all
+    end
   end
 end

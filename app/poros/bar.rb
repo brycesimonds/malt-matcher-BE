@@ -10,7 +10,7 @@ class Bar
               :brewery_description
 
   def initialize(data)
-    @catalog_brewery_id = data[:location][:id]
+    @catalog_brewery_id = data[:brewer][:id]
     @name = data[:brewer][:name]
     @address = format_address(data)
     @distance_from_user = format_distance(data)

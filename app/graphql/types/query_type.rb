@@ -19,11 +19,13 @@ module Types
       argument :radius, String, required: true
     end 
 
-    def breweries(location:, radius:)
+    def breweries(location:, radius:, style:)
       brewery_location = MapService.get_location(location)
       lat = brewery_location[:results].first[:locations].first[:latLng][:lat]
       lon = brewery_location[:results].first[:locations].first[:latLng][:lng]
       find_breweries = CatalogFacade.breweries(lat, lon, radius)
+      get_brewer_beers = CatalogFacade.brewer_beers(find_breweries, style)
+
     end
   end
 end

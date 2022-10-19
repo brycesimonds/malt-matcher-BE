@@ -1,0 +1,714 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.catalog.beer/location/nearby?latitude=39.738453&longitude=-104.984853&search_radius=50
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:11 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=auno1g2i5v8j68lqc6b06kekm5; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/location\/nearby","has_more":false,"data":[{"location":{"id":"e12758af-e7c6-4a32-b044-aabb91bb4bb0","object":"location","name":"Vine
+        Street Pub and Brewery","brewer_id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.7434731,"longitude":-104.9619904,"telephone":3033882337,"address":{"address1":null,"address2":"1700
+        Vine St","city":"Denver","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80206,"zip4":1120}},"distance":{"distance":1.3,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}},{"location":{"id":"17250c9f-08f8-49ec-a285-9924f4ca1cda","object":"location","name":"Denver","brewer_id":"200e1e9b-e073-42b6-92d4-e4bb26beedff","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.7602768,"longitude":-105.0039673,"telephone":3037291175,"address":{"address1":null,"address2":"2540
+        19th St","city":"Denver","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80211,"zip4":3910}},"distance":{"distance":1.8,"units":"miles"},"brewer":{"id":"200e1e9b-e073-42b6-92d4-e4bb26beedff","object":"brewer","name":"Prost
+        Brewing Company","description":null,"short_description":null,"url":"https:\/\/prostbrewing.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/ProstBrewing","twitter_url":"https:\/\/twitter.com\/ProstBrewing","instagram_url":"https:\/\/www.instagram.com\/prostbrewingco\/"}},{"location":{"id":"b8748fb7-398d-4e62-a768-9720a0918e70","object":"location","name":"Denver","brewer_id":"54b503e0-177a-4d73-a49d-74fd3df153cb","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.7770462,"longitude":-105.0007477,"telephone":0,"address":{"address1":null,"address2":"4455
+        Jason St","city":"Denver","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80211,"zip4":2412}},"distance":{"distance":2.8,"units":"miles"},"brewer":{"id":"54b503e0-177a-4d73-a49d-74fd3df153cb","object":"brewer","name":"Denver
+        Beer Company","description":null,"short_description":null,"url":"http:\/\/denverbeerco.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/DenverBeerCompany\/","twitter_url":"https:\/\/twitter.com\/denverbeerco?lang=en","instagram_url":"https:\/\/www.instagram.com\/denverbeerco\/"}},{"location":{"id":"3bed0a53-9673-445b-afae-0606bcbeb1ce","object":"location","name":"Denver","brewer_id":"a5f1bafa-ae10-411e-a75a-3675b3966dd3","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.7030945,"longitude":-104.9324112,"telephone":3037590333,"address":{"address1":null,"address2":"4700
+        E Cherry Creek South Dr","city":"Denver","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80246,"zip4":1819}},"distance":{"distance":3.7,"units":"miles"},"brewer":{"id":"a5f1bafa-ae10-411e-a75a-3675b3966dd3","object":"brewer","name":"Bull
+        & Bush Pub & Brewery","description":null,"short_description":null,"url":"https:\/\/bullandbush.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/bullandbushbrewery\/","twitter_url":"https:\/\/twitter.com\/bandbmanbeer","instagram_url":"https:\/\/www.instagram.com\/bullandbushbrewery\/"}},{"location":{"id":"c37f50b3-1c1b-4e5a-9c95-a018f07dc6e3","object":"location","name":"Denver","brewer_id":"a522114b-84bd-4de8-94ab-2404bb31d99a","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.6922493,"longitude":-104.8909836,"telephone":7204432522,"address":{"address1":"Ste
+        100","address2":"1338 S Valentia St","city":"Denver","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80247,"zip4":2167}},"distance":{"distance":5.9,"units":"miles"},"brewer":{"id":"a522114b-84bd-4de8-94ab-2404bb31d99a","object":"brewer","name":"Copper
+        Kettle Brewing Company","description":null,"short_description":null,"url":"http:\/\/www.copperkettledenver.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/CopperKettleBrewing\/","twitter_url":"https:\/\/twitter.com\/CopperKettleDEN","instagram_url":"https:\/\/www.instagram.com\/copperkettlebrewing\/"}},{"location":{"id":"e51f8269-e8cd-4c3f-9603-c4c8f6574c5a","object":"location","name":"Arvada","brewer_id":"54b503e0-177a-4d73-a49d-74fd3df153cb","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.8015327,"longitude":-105.0809708,"telephone":0,"address":{"address1":null,"address2":"5768
+        Olde Wadsworth Blvd","city":"Arvada","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80002,"zip4":2549}},"distance":{"distance":6.7,"units":"miles"},"brewer":{"id":"54b503e0-177a-4d73-a49d-74fd3df153cb","object":"brewer","name":"Denver
+        Beer Company","description":null,"short_description":null,"url":"http:\/\/denverbeerco.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/DenverBeerCompany\/","twitter_url":"https:\/\/twitter.com\/denverbeerco?lang=en","instagram_url":"https:\/\/www.instagram.com\/denverbeerco\/"}},{"location":{"id":"e076efb8-3a0a-4406-87f3-cdce47e44afa","object":"location","name":"Littleton","brewer_id":"cf6abc80-c8f5-4b57-90b2-628b857521a3","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.5402489,"longitude":-105.0399704,"telephone":3032849585,"address":{"address1":"Unit
+        A","address2":"12305 Dumont Way","city":"Littleton","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80125,"zip4":9788}},"distance":{"distance":14,"units":"miles"},"brewer":{"id":"cf6abc80-c8f5-4b57-90b2-628b857521a3","object":"brewer","name":"Living
+        The Dream Brewing Co.","description":null,"short_description":null,"url":"http:\/\/livingthedreambrewing.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/livingthedreambrewing\/","twitter_url":"https:\/\/twitter.com\/livingdreambrew?lang=en","instagram_url":"https:\/\/www.instagram.com\/livingdreambrew\/"}},{"location":{"id":"c7bb05c8-6c76-4265-913f-bc2bd0660b8d","object":"location","name":"Southern
+        Sun Pub and Brewery","brewer_id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.9843178,"longitude":-105.2493668,"telephone":3035430886,"address":{"address1":null,"address2":"627
+        S Broadway St","city":"Boulder","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80305,"zip4":5944}},"distance":{"distance":22,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}},{"location":{"id":"85452b81-74b7-49b2-8b2c-ad0fbebe448e","object":"location","name":"Castle
+        Rock","brewer_id":"d0c4bb4b-4f64-4393-8c6a-788d5d25f288","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.4091339,"longitude":-104.8698578,"telephone":3038149273,"address":{"address1":null,"address2":"880
+        Castleton Rd","city":"Castle Rock","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80109,"zip4":7512}},"distance":{"distance":23.6,"units":"miles"},"brewer":{"id":"d0c4bb4b-4f64-4393-8c6a-788d5d25f288","object":"brewer","name":"Rockyard
+        Brewing Company","description":null,"short_description":null,"url":"https:\/\/rockyardbrewing.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/therockyard\/","twitter_url":"https:\/\/twitter.com\/rockyardbrewing","instagram_url":"https:\/\/www.instagram.com\/rockyardbrewing\/"}},{"location":{"id":"44815e22-1a55-4e4a-a908-e24d37ea1732","object":"location","name":"Boulder","brewer_id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":40.0190125,"longitude":-105.2752151,"telephone":3035460886,"address":{"address1":null,"address2":"1535
+        Pearl St","city":"Boulder","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80302,"zip4":5408}},"distance":{"distance":24.8,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}},{"location":{"id":"c00e2e4e-3272-449f-849d-7987672f586d","object":"location","name":"Castle
+        Rock","brewer_id":"9e79b12d-d409-4823-99db-fe0b4b43330f","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.3749542,"longitude":-104.8583908,"telephone":0,"address":{"address1":null,"address2":"514
+        Perry St","city":"Castle Rock","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80104,"zip4":1711}},"distance":{"distance":26,"units":"miles"},"brewer":{"id":"9e79b12d-d409-4823-99db-fe0b4b43330f","object":"brewer","name":"Castle
+        Rock Beer Co.","description":null,"short_description":null,"url":"https:\/\/www.castlerockbeerco.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/crbeerco\/","twitter_url":"https:\/\/twitter.com\/crbrewery?lang=en","instagram_url":"https:\/\/www.instagram.com\/castlerockbeer\/"}},{"location":{"id":"915e723d-147b-4cf1-933e-d6637e0dc148","object":"location","name":"Longs
+        Peak Pub","brewer_id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":40.1708984,"longitude":-105.1029587,"telephone":3036517886,"address":{"address1":null,"address2":"600
+        Longs Peak Ave","city":"Longmont","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80501,"zip4":4001}},"distance":{"distance":30.5,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:11 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:11 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=s6dqvh3pjechro323tn2l6guml; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '1615'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/e2e7cd0a-9973-4abe-81ea-7b04f91e634c\/beer","has_more":false,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958},"data":[{"id":"66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10","name":"BLACK
+        ARIA BALTIC PORTER","style":"PORTER"},{"id":"ee2d9de6-854d-4abe-b771-8f3015be107d","name":"BLACKBERRY
+        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
+        KIND","style":"American Extra Special Bitter"},{"id":"261fb855-0604-44ba-8b93-c2be6215389b","name":"FADEAWAY
+        I.P.A.","style":"Westcoast IPA"},{"id":"3a8238b8-e00a-46c4-abbb-f0b0427abe91","name":"HEADYBRAH
+        OKTOBERFEST","style":"Oktoberfest"},{"id":"ea331a49-f5cb-4686-bfb8-3ca4804275a7","name":"HOP
+        VIVANT IMPERIAL I.P.A.","style":"Imperial IPA"},{"id":"4b8027c0-97d4-4324-905f-abae609076d6","name":"MEADOWS!
+        BELGIAN PALE","style":"Belgian Pale Ale"},{"id":"04c4e7ab-722f-4e60-a447-4826f2c7b9fc","name":"PRIME
+        TIME PILSNER","style":"PILSNER"},{"id":"10058e29-8ec3-4587-9be4-6079c1a2fe25","name":"STAR
+        FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
+        OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
+        PALE","style":"Pale Ale"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:11 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/200e1e9b-e073-42b6-92d4-e4bb26beedff/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:11 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=s13ue05nq55fh8c7jq1gmjbu3a; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '1338'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/200e1e9b-e073-42b6-92d4-e4bb26beedff\/beer","has_more":false,"brewer":{"id":"200e1e9b-e073-42b6-92d4-e4bb26beedff","object":"brewer","name":"Prost
+        Brewing Company","description":null,"short_description":null,"url":"https:\/\/prostbrewing.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/ProstBrewing","twitter_url":"https:\/\/twitter.com\/ProstBrewing","instagram_url":"https:\/\/www.instagram.com\/prostbrewingco\/","last_modified":1518041226},"data":[{"id":"aa40e890-7a58-4035-a664-c909504f7a25","name":"Altbier","style":"German-Style
+        Altbier"},{"id":"82c9f01a-47c8-4c1b-8f13-1d34a01a86a7","name":"K\u00f6lsch","style":"German-Style
+        K\u00f6lsch \/ K\u00f6ln-Style K\u00f6lsch"},{"id":"f005cec6-a4bd-4b48-995d-5a1a3d8c7108","name":"M\u00e4rzen","style":"German-Style
+        M\u00e4rzen"},{"id":"535998cb-4614-48ce-b7d5-98c7aae16f3c","name":"Marzen
+        Oktoberfest","style":"American-Style M\u00e4rzen \/ Oktoberfest"},{"id":"78d4f505-d93e-4f68-ab85-e761889d1e39","name":"Prost
+        Pils","style":"German-Style Pilsener"},{"id":"93f67d9d-6d5c-4e2c-8eb8-45bcf3d966b5","name":"Wei\u00dfbier","style":"South
+        German-Style Hefeweizen \/ Hefeweissbier"},{"id":"dc025f77-6989-42e3-8daa-1e26daddd994","name":"Wei\u00dfbier","style":"South
+        German-Style Hefeweizen \/ Hefeweissbier"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:11 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/54b503e0-177a-4d73-a49d-74fd3df153cb/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:11 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=ho8931ftgjhlbt3k6n9b47c1p7; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '1666'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/54b503e0-177a-4d73-a49d-74fd3df153cb\/beer","has_more":false,"brewer":{"id":"54b503e0-177a-4d73-a49d-74fd3df153cb","object":"brewer","name":"Denver
+        Beer Company","description":null,"short_description":null,"url":"http:\/\/denverbeerco.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/DenverBeerCompany\/","twitter_url":"https:\/\/twitter.com\/denverbeerco?lang=en","instagram_url":"https:\/\/www.instagram.com\/denverbeerco\/","last_modified":1521258373},"data":[{"id":"57bd284f-cd34-4226-892e-bdf71d3ea28c","name":"Blood
+        Orange Tandem Double IPA","style":"Imperial or Double India Pale Ale"},{"id":"e37a8cd8-8823-4e0f-b428-c66db6b8cba5","name":"Four
+        Sheets","style":"Belgian-Style Quadrupel"},{"id":"c02f5f53-0060-4baf-a2e4-416070511ced","name":"Graham
+        Cracker Porter","style":"Brown Porter"},{"id":"bba23b30-1db5-4a62-a4a9-d848148d3c51","name":"Hey,
+        Pumpkin","style":"Pumpkin Beer"},{"id":"1eca02ee-7f5a-420f-9f9b-8a2dc1692d48","name":"Incredible
+        Pedal","style":"American-Style India Pale Ale"},{"id":"2e05dc00-1d24-42d4-9c94-d904e4d5b286","name":"Maui
+        Express Coconut IPA","style":"American-Style India Pale Ale"},{"id":"b189e801-f8f9-4566-96df-bbc30ee4123a","name":"Pretzel
+        Assassin","style":"Vienna-Style Lager"},{"id":"dd8af059-ba47-4008-993e-e3d58f6b9bc1","name":"Princess
+        Yum Yum","style":"German-Style K\u00f6lsch \/ K\u00f6ln-Style K\u00f6lsch"},{"id":"a90b1e4b-4f87-4cef-8a71-6b146fbe5d3d","name":"Rye-25","style":"Rye
+        Ale or Lager with or without Yeast"},{"id":"849f22e4-afb8-46b5-be49-8f5ecb3f4213","name":"Summit
+        Sunrise","style":"Rye Ale or Lager with or without Yeast"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:11 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/a5f1bafa-ae10-411e-a75a-3675b3966dd3/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:12 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=ubtmdnnln1f7punupph8n1fbra; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '870'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/a5f1bafa-ae10-411e-a75a-3675b3966dd3\/beer","has_more":false,"brewer":{"id":"a5f1bafa-ae10-411e-a75a-3675b3966dd3","object":"brewer","name":"Bull
+        & Bush Pub & Brewery","description":null,"short_description":null,"url":"https:\/\/bullandbush.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/bullandbushbrewery\/","twitter_url":"https:\/\/twitter.com\/bandbmanbeer","instagram_url":"https:\/\/www.instagram.com\/bullandbushbrewery\/","last_modified":1518477887},"data":[{"id":"eccdd248-fe08-447e-8444-6217bceea28d","name":"44th
+        Anniversary","style":"Belgian-Style Dark Strong Ale"},{"id":"e09c7c09-c852-4e4b-b512-19154299e561","name":"Release
+        the Hounds","style":"American-Style Barley Wine Ale"},{"id":"92e1c3b8-b559-4549-96b7-799167bbdc58","name":"Yule
+        Fuel","style":"Herb and Spice Beer"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/a522114b-84bd-4de8-94ab-2404bb31d99a/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:12 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=ihrecq38bov8jds5kqimqmr4sg; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '2737'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/a522114b-84bd-4de8-94ab-2404bb31d99a\/beer","has_more":false,"brewer":{"id":"a522114b-84bd-4de8-94ab-2404bb31d99a","object":"brewer","name":"Copper
+        Kettle Brewing Company","description":null,"short_description":null,"url":"http:\/\/www.copperkettledenver.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/CopperKettleBrewing\/","twitter_url":"https:\/\/twitter.com\/CopperKettleDEN","instagram_url":"https:\/\/www.instagram.com\/copperkettlebrewing\/","last_modified":1521687120},"data":[{"id":"669ac153-b4fb-469b-a7f1-018ffa5d9387","name":"Bavarian
+        Helles","style":"M\u00fcnchner (Munich)-Style Helles"},{"id":"a7daf744-1153-4c45-a7c9-3aaeb23e3ffc","name":"Biergarden
+        Dunkel","style":"South German-Style Dunkel Weizen \/ Dunkel Weissbier"},{"id":"652262fe-1a3d-496b-969d-ff9ec0d89fb5","name":"Black
+        IPA","style":"Specialty Beer"},{"id":"3fb42c50-06fc-4574-9712-d42653f74a25","name":"Black
+        Onyx","style":"Specialty Beer"},{"id":"3519f204-ab29-45ce-8efb-71768fe40905","name":"Charlie''s
+        Golden Strong Ale","style":"Belgian-Style Pale Strong Ale"},{"id":"a517776e-8402-4f8f-aae2-2a567b2a427d","name":"Copper
+        Mezzina Ale","style":"American-Style Pale Ale"},{"id":"1657d384-c825-4940-8e0f-f1ad33fe6081","name":"D\u00fcsseldorf
+        Altbier","style":"German-Style Altbier"},{"id":"0ce2af6c-e6c7-4e98-8942-b27b06d46efb","name":"Koln
+        Kolsch","style":"German-Style K\u00f6lsch \/ K\u00f6ln-Style K\u00f6lsch"},{"id":"ad9f6024-4bb8-4a88-8d11-21bfca97a37a","name":"Marienplatz
+        Lager","style":"German-Style M\u00e4rzen"},{"id":"eba7ca80-660a-43d3-8451-e5e00acc59c2","name":"Mexican
+        Chocolate Stout","style":"Herb and Spice Beer"},{"id":"64191f64-dc91-4112-9507-f91a58db72e9","name":"Milk
+        Stout","style":"Sweet or Cream Stout"},{"id":"f3bad141-7976-4b11-bc6a-9722964ca8b3","name":"Naja
+        Imperial Red IPA","style":"Imperial Red Ale"},{"id":"554498ef-58e2-4cab-a4dc-96417298e4c2","name":"Raspberry
+        Wheat","style":"Light American Wheat Ale or Lager with Yeast"},{"id":"fd4371a2-c5f1-4920-8368-4c847b22548a","name":"Snowed
+        In","style":"Oatmeal Stout"},{"id":"97bf3b97-3b94-4ff9-9517-4e719e1ba497","name":"Sobremesa","style":"Specialty
+        Beer"},{"id":"79bd9672-1b19-4634-a8b6-247c0bfc3426","name":"Straight Jacket
+        IPA\u200b","style":"American-Style India Pale Ale"},{"id":"c7479312-fefd-41bf-8c7a-240f86f95b1d","name":"Summer
+        Ale","style":"American-Style Pale Ale"},{"id":"7f072ad0-0786-471c-994f-9693be9f8760","name":"Summer
+        Ale","style":"American-Style Pale Ale"},{"id":"3944c971-84d4-435c-9176-867f37717042","name":"Swingin''
+        Utters Milk Stout","style":"American-Style Stout"},{"id":"93668933-38f6-4959-98da-ec46c36f2513","name":"Well
+        Bred","style":"British-Style Barley Wine Ale"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/54b503e0-177a-4d73-a49d-74fd3df153cb/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:12 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=olm9cj2qrge4jjbbn3quvc11a4; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '1666'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/54b503e0-177a-4d73-a49d-74fd3df153cb\/beer","has_more":false,"brewer":{"id":"54b503e0-177a-4d73-a49d-74fd3df153cb","object":"brewer","name":"Denver
+        Beer Company","description":null,"short_description":null,"url":"http:\/\/denverbeerco.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/DenverBeerCompany\/","twitter_url":"https:\/\/twitter.com\/denverbeerco?lang=en","instagram_url":"https:\/\/www.instagram.com\/denverbeerco\/","last_modified":1521258373},"data":[{"id":"57bd284f-cd34-4226-892e-bdf71d3ea28c","name":"Blood
+        Orange Tandem Double IPA","style":"Imperial or Double India Pale Ale"},{"id":"e37a8cd8-8823-4e0f-b428-c66db6b8cba5","name":"Four
+        Sheets","style":"Belgian-Style Quadrupel"},{"id":"c02f5f53-0060-4baf-a2e4-416070511ced","name":"Graham
+        Cracker Porter","style":"Brown Porter"},{"id":"bba23b30-1db5-4a62-a4a9-d848148d3c51","name":"Hey,
+        Pumpkin","style":"Pumpkin Beer"},{"id":"1eca02ee-7f5a-420f-9f9b-8a2dc1692d48","name":"Incredible
+        Pedal","style":"American-Style India Pale Ale"},{"id":"2e05dc00-1d24-42d4-9c94-d904e4d5b286","name":"Maui
+        Express Coconut IPA","style":"American-Style India Pale Ale"},{"id":"b189e801-f8f9-4566-96df-bbc30ee4123a","name":"Pretzel
+        Assassin","style":"Vienna-Style Lager"},{"id":"dd8af059-ba47-4008-993e-e3d58f6b9bc1","name":"Princess
+        Yum Yum","style":"German-Style K\u00f6lsch \/ K\u00f6ln-Style K\u00f6lsch"},{"id":"a90b1e4b-4f87-4cef-8a71-6b146fbe5d3d","name":"Rye-25","style":"Rye
+        Ale or Lager with or without Yeast"},{"id":"849f22e4-afb8-46b5-be49-8f5ecb3f4213","name":"Summit
+        Sunrise","style":"Rye Ale or Lager with or without Yeast"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/cf6abc80-c8f5-4b57-90b2-628b857521a3/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:12 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=cv96059ucmepgm2l2i5dt4ht18; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '1688'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/cf6abc80-c8f5-4b57-90b2-628b857521a3\/beer","has_more":false,"brewer":{"id":"cf6abc80-c8f5-4b57-90b2-628b857521a3","object":"brewer","name":"Living
+        The Dream Brewing Co.","description":null,"short_description":null,"url":"http:\/\/livingthedreambrewing.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/livingthedreambrewing\/","twitter_url":"https:\/\/twitter.com\/livingdreambrew?lang=en","instagram_url":"https:\/\/www.instagram.com\/livingdreambrew\/","last_modified":1518157088},"data":[{"id":"64a19d43-ba61-4c21-b18f-e9fc8678d407","name":"Belgian
+        Brune","style":"Belgian-Style Table Beer"},{"id":"1d89b9aa-c6f4-49a6-bdb9-3b9c98b69d07","name":"Dortmunder
+        Export","style":"American-Style Dark Lager"},{"id":"38425791-d0bd-472a-8d84-267a7f3ec2f6","name":"Dortmunder
+        Export","style":"American-Style Dark Lager"},{"id":"4aa30331-7dcf-4d95-ad8f-456f6ef28ef1","name":"Empty
+        Trophy Case Pale Ale","style":"American-Style Pale Ale"},{"id":"c6fc1794-074d-4dcc-9a94-2a7acdbec9f5","name":"Helluva
+        Caucasian","style":"Specialty Stouts"},{"id":"30704fcd-415c-45c0-a03e-78661f674469","name":"No
+        Filter Wheat","style":"Belgian-Style White (or Wit) \/ Belgian-Style Wheat"},{"id":"14f05985-318d-4eca-a758-effc86d4f874","name":"Saison
+        du Miel","style":"French & Belgian-Style Saison"},{"id":"369f5abb-4f4c-4be3-86a3-147eb4a4efa0","name":"South
+        Island Wit","style":"Belgian-Style White (or Wit) \/ Belgian-Style Wheat"},{"id":"880f078b-0459-4b99-8ae1-da26400a172b","name":"Stumbling
+        Monk","style":"Sweet or Cream Stout"},{"id":"98defa7a-7472-4f55-b423-0af35160b823","name":"Stumbling
+        Monk","style":"Sweet or Cream Stout"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:12 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=5bgsn1550vfjsrjiok7udhfhhl; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '1615'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/e2e7cd0a-9973-4abe-81ea-7b04f91e634c\/beer","has_more":false,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958},"data":[{"id":"66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10","name":"BLACK
+        ARIA BALTIC PORTER","style":"PORTER"},{"id":"ee2d9de6-854d-4abe-b771-8f3015be107d","name":"BLACKBERRY
+        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
+        KIND","style":"American Extra Special Bitter"},{"id":"261fb855-0604-44ba-8b93-c2be6215389b","name":"FADEAWAY
+        I.P.A.","style":"Westcoast IPA"},{"id":"3a8238b8-e00a-46c4-abbb-f0b0427abe91","name":"HEADYBRAH
+        OKTOBERFEST","style":"Oktoberfest"},{"id":"ea331a49-f5cb-4686-bfb8-3ca4804275a7","name":"HOP
+        VIVANT IMPERIAL I.P.A.","style":"Imperial IPA"},{"id":"4b8027c0-97d4-4324-905f-abae609076d6","name":"MEADOWS!
+        BELGIAN PALE","style":"Belgian Pale Ale"},{"id":"04c4e7ab-722f-4e60-a447-4826f2c7b9fc","name":"PRIME
+        TIME PILSNER","style":"PILSNER"},{"id":"10058e29-8ec3-4587-9be4-6079c1a2fe25","name":"STAR
+        FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
+        OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
+        PALE","style":"Pale Ale"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/d0c4bb4b-4f64-4393-8c6a-788d5d25f288/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:12 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=oneoojsnmqsdp0g0vh9bu96dpv; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '3142'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/d0c4bb4b-4f64-4393-8c6a-788d5d25f288\/beer","has_more":false,"brewer":{"id":"d0c4bb4b-4f64-4393-8c6a-788d5d25f288","object":"brewer","name":"Rockyard
+        Brewing Company","description":null,"short_description":null,"url":"https:\/\/rockyardbrewing.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/therockyard\/","twitter_url":"https:\/\/twitter.com\/rockyardbrewing","instagram_url":"https:\/\/www.instagram.com\/rockyardbrewing\/","last_modified":1518039755},"data":[{"id":"ef3ce613-da85-46e3-a552-3e0ae9c97377","name":"Back
+        40 Brown Ale","style":"American-Style Brown Ale"},{"id":"a5f2e155-c55f-4cba-9d60-0dbf869af7b7","name":"Buddha
+        Nuvo","style":"French & Belgian-Style Saison"},{"id":"5fba3d2d-b7e6-451c-9abb-e2b813f559a6","name":"Chi-Co
+        Porter","style":"Brown Porter"},{"id":"3a4368cc-ab14-4486-b2dc-5c541dbb42fd","name":"Diesel","style":"Imperial
+        or Double India Pale Ale"},{"id":"858fdcb7-cf47-4fef-ba40-dfe9dd36ea29","name":"Diesel","style":"Imperial
+        or Double India Pale Ale"},{"id":"fb5abf15-ae2c-44e7-b7bb-4d2376736426","name":"Dog
+        House Red","style":"Wood- and Barrel-Aged Strong Beer"},{"id":"8b028c12-20f8-4dac-abb4-b87520078e2e","name":"Double
+        Eagle Ale","style":"Dark American Wheat Ale or Lager without Yeast"},{"id":"3180fee0-7e28-4012-aa66-245ff06b0d85","name":"Evil
+        Red","style":"Double Red Ale"},{"id":"e5092ae6-72ce-44f4-ac80-3f31d73d1a23","name":"Excavator
+        Doppel Bock","style":"German-Style Doppelbock"},{"id":"4aa4b80c-95a6-4b86-a599-47ec9c64e8de","name":"Hopyard
+        IPA","style":"American-Style India Pale Ale"},{"id":"b766ca66-139f-4865-b5a4-f3e6965c858a","name":"Lightning
+        Strike Stout","style":"Oatmeal Stout"},{"id":"cb85d2c2-a121-444a-80e7-27e899a897fc","name":"New
+        Memphis Gold Chili Beer","style":"Herb and Spice Beer"},{"id":"81ca979c-5df4-471f-99af-4c404cec2bb7","name":"Octoberfest","style":"German-Style
+        M\u00e4rzen"},{"id":"27365320-c32d-4770-8609-ddf6346deb21","name":"Plum Creek
+        Sour","style":"American-Style Sour Ale"},{"id":"aefe6de7-1ce7-4368-a947-6b074e9373a3","name":"Plymouth
+        Rock Pumpkin Ale","style":"Pumpkin Beer"},{"id":"46f63d18-7caa-4826-8089-01bda6f32ccb","name":"Redhawk
+        Ale","style":"Scottish-Style Export Ale"},{"id":"3d620f7e-19f5-4c88-a27d-c62afc6f75df","name":"Rockness
+        Monster","style":"Scotch Ale"},{"id":"71eba9ec-45bc-4297-9fca-9a00339a3e68","name":"Silverback","style":"American-Style
+        Pale Ale"},{"id":"c9c4bab1-db84-4d7b-bd00-d8e0c495c7f5","name":"Silverback","style":"American-Style
+        Pale Ale"},{"id":"505969a1-c884-424c-b5df-1f632e6436d6","name":"Spirit of
+        Danny","style":"French & Belgian-Style Saison"},{"id":"7efdf367-8c6b-409d-9ea4-728897e07e11","name":"Strawberry
+        Weiss","style":"American-Style Sour Ale"},{"id":"59f2e589-68eb-4f3d-bcbd-56c817324fad","name":"The
+        Creeper","style":"Pumpkin Beer"},{"id":"8a8aebb5-056f-4583-b43a-f9a75722a1d2","name":"The
+        Creeper","style":"Pumpkin Beer"},{"id":"a04faaf7-57d5-4164-b031-4aebacf07ca7","name":"Warning
+        Sign","style":"German-Style Eisbock"},{"id":"bada1b05-cd7c-493e-bc1d-ba129f31c430","name":"Wilson
+        Gone Wild","style":"American-Style Imperial Stout"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:13 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=qkvs1ck0cscsq3dpp3cqja5noh; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '1615'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/e2e7cd0a-9973-4abe-81ea-7b04f91e634c\/beer","has_more":false,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958},"data":[{"id":"66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10","name":"BLACK
+        ARIA BALTIC PORTER","style":"PORTER"},{"id":"ee2d9de6-854d-4abe-b771-8f3015be107d","name":"BLACKBERRY
+        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
+        KIND","style":"American Extra Special Bitter"},{"id":"261fb855-0604-44ba-8b93-c2be6215389b","name":"FADEAWAY
+        I.P.A.","style":"Westcoast IPA"},{"id":"3a8238b8-e00a-46c4-abbb-f0b0427abe91","name":"HEADYBRAH
+        OKTOBERFEST","style":"Oktoberfest"},{"id":"ea331a49-f5cb-4686-bfb8-3ca4804275a7","name":"HOP
+        VIVANT IMPERIAL I.P.A.","style":"Imperial IPA"},{"id":"4b8027c0-97d4-4324-905f-abae609076d6","name":"MEADOWS!
+        BELGIAN PALE","style":"Belgian Pale Ale"},{"id":"04c4e7ab-722f-4e60-a447-4826f2c7b9fc","name":"PRIME
+        TIME PILSNER","style":"PILSNER"},{"id":"10058e29-8ec3-4587-9be4-6079c1a2fe25","name":"STAR
+        FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
+        OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
+        PALE","style":"Pale Ale"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:13 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/9e79b12d-d409-4823-99db-fe0b4b43330f/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:13 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=i51n11neip58si69mudls1kl9g; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '1451'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/9e79b12d-d409-4823-99db-fe0b4b43330f\/beer","has_more":false,"brewer":{"id":"9e79b12d-d409-4823-99db-fe0b4b43330f","object":"brewer","name":"Castle
+        Rock Beer Co.","description":null,"short_description":null,"url":"https:\/\/www.castlerockbeerco.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/crbeerco\/","twitter_url":"https:\/\/twitter.com\/crbrewery?lang=en","instagram_url":"https:\/\/www.instagram.com\/castlerockbeer\/","last_modified":1521140532},"data":[{"id":"264ca383-b1fd-4aae-b098-a80fe265554a","name":"Brown
+        Porter","style":"Brown Porter"},{"id":"a1311f04-d32a-4fe0-9dd0-769ccaf8dca0","name":"Brown
+        Porter","style":"Brown Porter"},{"id":"1455eb83-d156-42c3-aa32-f150d675c91d","name":"Golden
+        IPA","style":"English-Style India Pale Ale"},{"id":"c0063ef2-2be2-41cc-9053-b423b60b3b9d","name":"Golden
+        IPA","style":"English-Style India Pale Ale"},{"id":"24561dbc-f5f1-433a-ac01-b223c46d6108","name":"Highland
+        Dawn","style":"English-Style Summer Ale"},{"id":"fdc0c08b-7659-41df-a4e6-4f09193b4ad6","name":"Red
+        Irish Hart","style":"Irish-Style Red Ale"},{"id":"5d182ae1-96f2-4ca2-ad9a-e1f76165fa49","name":"Scottish
+        Export","style":"Scottish-Style Export Ale"},{"id":"6b203a36-46b8-4ce8-880d-aac2389499cc","name":"Scottish
+        Export","style":"Scottish-Style Export Ale"},{"id":"e81d23c0-9b3d-4fe0-b2bf-0a7d23ec17f6","name":"Sellars
+        ESB","style":"Extra Special Bitter"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:13 GMT
+- request:
+    method: get
+    uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 18 Oct 2022 23:56:13 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=2adujffdru14nhq4s60hm12p2k; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '1615'
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/brewer\/e2e7cd0a-9973-4abe-81ea-7b04f91e634c\/beer","has_more":false,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958},"data":[{"id":"66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10","name":"BLACK
+        ARIA BALTIC PORTER","style":"PORTER"},{"id":"ee2d9de6-854d-4abe-b771-8f3015be107d","name":"BLACKBERRY
+        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
+        KIND","style":"American Extra Special Bitter"},{"id":"261fb855-0604-44ba-8b93-c2be6215389b","name":"FADEAWAY
+        I.P.A.","style":"Westcoast IPA"},{"id":"3a8238b8-e00a-46c4-abbb-f0b0427abe91","name":"HEADYBRAH
+        OKTOBERFEST","style":"Oktoberfest"},{"id":"ea331a49-f5cb-4686-bfb8-3ca4804275a7","name":"HOP
+        VIVANT IMPERIAL I.P.A.","style":"Imperial IPA"},{"id":"4b8027c0-97d4-4324-905f-abae609076d6","name":"MEADOWS!
+        BELGIAN PALE","style":"Belgian Pale Ale"},{"id":"04c4e7ab-722f-4e60-a447-4826f2c7b9fc","name":"PRIME
+        TIME PILSNER","style":"PILSNER"},{"id":"10058e29-8ec3-4587-9be4-6079c1a2fe25","name":"STAR
+        FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
+        OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
+        PALE","style":"Pale Ale"}]}'
+  recorded_at: Tue, 18 Oct 2022 23:56:13 GMT
+recorded_with: VCR 6.1.0

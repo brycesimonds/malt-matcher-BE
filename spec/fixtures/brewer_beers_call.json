@@ -1,0 +1,56 @@
+{
+  "object": "list",
+  "url": "/brewer/200e1e9b-e073-42b6-92d4-e4bb26beedff/beer",
+  "has_more": false,
+  "brewer": {
+    "id": "200e1e9b-e073-42b6-92d4-e4bb26beedff",
+    "object": "brewer",
+    "name": "Prost Brewing Company",
+    "description": null,
+    "short_description": null,
+    "url": "https://prostbrewing.com/",
+    "cb_verified": true,
+    "brewer_verified": false,
+    "facebook_url": "https://www.facebook.com/ProstBrewing",
+    "twitter_url": "https://twitter.com/ProstBrewing",
+    "instagram_url": "https://www.instagram.com/prostbrewingco/",
+    "last_modified": 1518041226
+  },
+  "data": [
+    {
+      "id": "aa40e890-7a58-4035-a664-c909504f7a25",
+      "name": "Altbier",
+      "style": "German-Style Altbier"
+    },
+    {
+      "id": "82c9f01a-47c8-4c1b-8f13-1d34a01a86a7",
+      "name": "Kölsch",
+      "style": "German-Style Kölsch / Köln-Style Kölsch"
+    },
+    {
+      "id": "f005cec6-a4bd-4b48-995d-5a1a3d8c7108",
+      "name": "Märzen",
+      "style": "German-Style Märzen"
+    },
+    {
+      "id": "535998cb-4614-48ce-b7d5-98c7aae16f3c",
+      "name": "Marzen Oktoberfest",
+      "style": "American-Style Märzen / Oktoberfest"
+    },
+    {
+      "id": "78d4f505-d93e-4f68-ab85-e761889d1e39",
+      "name": "Prost Pils",
+      "style": "German-Style Pilsener"
+    },
+    {
+      "id": "93f67d9d-6d5c-4e2c-8eb8-45bcf3d966b5",
+      "name": "Weißbier",
+      "style": "South German-Style Hefeweizen / Hefeweissbier"
+    },
+    {
+      "id": "dc025f77-6989-42e3-8daa-1e26daddd994",
+      "name": "Weißbier",
+      "style": "South German-Style Hefeweizen / Hefeweissbier"
+    }
+  ]
+}

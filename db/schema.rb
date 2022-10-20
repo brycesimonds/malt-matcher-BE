@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_10_15_210509) do
+ActiveRecord::Schema.define(version: 2022_10_19_232817) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,7 +23,7 @@ ActiveRecord::Schema.define(version: 2022_10_15_210509) do
     t.float "abv"
     t.integer "ibu"
     t.string "catalog_brewery_id"
-    t.integer "last_modified"
+    t.string "last_modified"
     t.bigint "brewery_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
@@ -34,7 +34,7 @@ ActiveRecord::Schema.define(version: 2022_10_15_210509) do
     t.string "catalog_brewery_id"
     t.string "name"
     t.string "address"
-    t.integer "distance_from_user"
+    t.float "distance_from_user"
     t.string "website"
     t.string "instagram"
     t.string "facebook"

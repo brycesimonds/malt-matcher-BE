@@ -7,16 +7,10 @@ module Types
     # Add root-level fields here.
     # They will be entry points for queries on your schema.
 
-    # TODO: remove me
-    field :test_field, String, null: false,
-      description: "An example field added by the generator"
-    def test_field
-      "Hello World!"
-    end
-
     field :breweries, [Types::BreweryType], null: false do
       argument :location, String, required: true
       argument :radius, String, required: true
+      argument :style, String, required: true
     end 
 
     def breweries(location:, radius:, style:)
@@ -24,8 +18,7 @@ module Types
       lat = brewery_location[:results].first[:locations].first[:latLng][:lat]
       lon = brewery_location[:results].first[:locations].first[:latLng][:lng]
       find_breweries = CatalogFacade.breweries(lat, lon, radius)
-      get_brewer_beers = CatalogFacade.brewer_beers(find_breweries, style)
-
+      breweries_that_match_style_and_their_beers = CatalogFacade.brewer_beers(find_breweries, style)
     end
   end
 end

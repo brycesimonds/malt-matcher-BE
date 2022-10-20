@@ -25,19 +25,6 @@ class CatalogFacade
             answer << brewery_data
           end
         end
-       #answer.count is giving us 4 brewery objects here
-                  #now we need to send answer to the get_abv_ibu then
-                  #turn them into Drinks and save them to DB
-
-      # brewer_beer_objects = json[:data].map do |brewer_beer|
-      #   beer_abv_ibu = CatalogService.get_abv_ibu(beer_id)
-      #   #if beer_abv_ibu style logic
-      #   Drink.new(brewer_beer, beer_abv_ibu)
-      # end
-
-      # brewer_beer_objects.map do |brewer_beer|
-      #   Drink.find_or_create_by(catalog_brewery_id: brewer_beer.catalog_brewery_id, name: brewer_beer.name, style: brewer_beer.style, description: brewer_beer.description, abv: brewer_beer.abv, ibu: brewer_beer.ibu)
-      # end
     end
   end
 end

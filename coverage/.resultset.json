@@ -212,11 +212,12 @@
           null
         ]
       },
-      "/Users/bryce.simonds/Desktop/turing/4Module/project/malt-matcher-BE/app/models/beer.rb": {
+      "/Users/bryce.simonds/Desktop/turing/4Module/project/malt-matcher-BE/app/models/brewery.rb": {
         "lines": [
           1,
           1,
           null,
+          1,
           1,
           1,
           1,
@@ -235,7 +236,7 @@
           null
         ]
       },
-      "/Users/bryce.simonds/Desktop/turing/4Module/project/malt-matcher-BE/app/models/brewery.rb": {
+      "/Users/bryce.simonds/Desktop/turing/4Module/project/malt-matcher-BE/app/models/beer.rb": {
         "lines": [
           1,
           1,
@@ -248,11 +249,10 @@
           1,
           1,
           1,
-          1,
           null
         ]
       }
     },
-    "timestamp": 1666301322
+    "timestamp": 1666301585
   }
 }

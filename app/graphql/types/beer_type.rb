@@ -7,7 +7,7 @@ module Types
     field :description, String, null: true 
     field :abv, Float, null: true 
     field :ibu, Integer, null: true 
-    field :last_modified, Integer, null: true
+    field :last_modified, String, null: true
   end
 end
 

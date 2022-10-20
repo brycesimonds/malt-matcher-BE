@@ -7,7 +7,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins "https://malt-matcher-fe.herokuapp.com/", "http://localhost:3000", "http://malt-matcher.github.io", "https://malt-matcher.github.io"
+    origins "*"
 
     resource "*",
       headers: :any,

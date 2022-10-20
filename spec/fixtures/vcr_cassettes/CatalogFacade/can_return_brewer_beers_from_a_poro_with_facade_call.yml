@@ -21,11 +21,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:11 GMT
+      - Thu, 20 Oct 2022 17:34:53 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=auno1g2i5v8j68lqc6b06kekm5; path=/
+      - PHPSESSID=sp1bsukvhs4q44mi63psbh0kld; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -80,7 +80,7 @@ http_interactions:
         States of America","latitude":40.1708984,"longitude":-105.1029587,"telephone":3036517886,"address":{"address1":null,"address2":"600
         Longs Peak Ave","city":"Longmont","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80501,"zip4":4001}},"distance":{"distance":30.5,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:11 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:53 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -102,11 +102,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:11 GMT
+      - Thu, 20 Oct 2022 17:34:53 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=s6dqvh3pjechro323tn2l6guml; path=/
+      - PHPSESSID=btbqfq59iebi4fptidrnf35cuk; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -114,7 +114,7 @@ http_interactions:
       Pragma:
       - no-cache
       Content-Length:
-      - '1615'
+      - '1735'
       Content-Type:
       - application/json
     body:
@@ -122,7 +122,8 @@ http_interactions:
       string: '{"object":"list","url":"\/brewer\/e2e7cd0a-9973-4abe-81ea-7b04f91e634c\/beer","has_more":false,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958},"data":[{"id":"66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10","name":"BLACK
         ARIA BALTIC PORTER","style":"PORTER"},{"id":"ee2d9de6-854d-4abe-b771-8f3015be107d","name":"BLACKBERRY
-        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
+        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"8d6ffec6-3897-47ae-87d4-2f552a2cb292","name":"Bryce
+        you are fucking this up!","style":"Stop! Just Stop! Bryce!"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
         KIND","style":"American Extra Special Bitter"},{"id":"261fb855-0604-44ba-8b93-c2be6215389b","name":"FADEAWAY
         I.P.A.","style":"Westcoast IPA"},{"id":"3a8238b8-e00a-46c4-abbb-f0b0427abe91","name":"HEADYBRAH
         OKTOBERFEST","style":"Oktoberfest"},{"id":"ea331a49-f5cb-4686-bfb8-3ca4804275a7","name":"HOP
@@ -132,7 +133,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:11 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:53 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/200e1e9b-e073-42b6-92d4-e4bb26beedff/beer?latitude&longitude&search_radius
@@ -154,11 +155,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:11 GMT
+      - Thu, 20 Oct 2022 17:34:53 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=s13ue05nq55fh8c7jq1gmjbu3a; path=/
+      - PHPSESSID=7rnqvj1gum6hndhdbc0rhof1nt; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -180,7 +181,7 @@ http_interactions:
         Pils","style":"German-Style Pilsener"},{"id":"93f67d9d-6d5c-4e2c-8eb8-45bcf3d966b5","name":"Wei\u00dfbier","style":"South
         German-Style Hefeweizen \/ Hefeweissbier"},{"id":"dc025f77-6989-42e3-8daa-1e26daddd994","name":"Wei\u00dfbier","style":"South
         German-Style Hefeweizen \/ Hefeweissbier"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:11 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:53 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/54b503e0-177a-4d73-a49d-74fd3df153cb/beer?latitude&longitude&search_radius
@@ -202,11 +203,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:11 GMT
+      - Thu, 20 Oct 2022 17:34:53 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=ho8931ftgjhlbt3k6n9b47c1p7; path=/
+      - PHPSESSID=n62ct3klpr46hnkhgbbdip0v3g; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -231,7 +232,7 @@ http_interactions:
         Yum Yum","style":"German-Style K\u00f6lsch \/ K\u00f6ln-Style K\u00f6lsch"},{"id":"a90b1e4b-4f87-4cef-8a71-6b146fbe5d3d","name":"Rye-25","style":"Rye
         Ale or Lager with or without Yeast"},{"id":"849f22e4-afb8-46b5-be49-8f5ecb3f4213","name":"Summit
         Sunrise","style":"Rye Ale or Lager with or without Yeast"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:11 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:54 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/a5f1bafa-ae10-411e-a75a-3675b3966dd3/beer?latitude&longitude&search_radius
@@ -253,11 +254,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:12 GMT
+      - Thu, 20 Oct 2022 17:34:54 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=ubtmdnnln1f7punupph8n1fbra; path=/
+      - PHPSESSID=j6omqaubt2o17g61k3lubr0sbg; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -275,7 +276,7 @@ http_interactions:
         Anniversary","style":"Belgian-Style Dark Strong Ale"},{"id":"e09c7c09-c852-4e4b-b512-19154299e561","name":"Release
         the Hounds","style":"American-Style Barley Wine Ale"},{"id":"92e1c3b8-b559-4549-96b7-799167bbdc58","name":"Yule
         Fuel","style":"Herb and Spice Beer"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:54 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/a522114b-84bd-4de8-94ab-2404bb31d99a/beer?latitude&longitude&search_radius
@@ -297,11 +298,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:12 GMT
+      - Thu, 20 Oct 2022 17:34:54 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=ihrecq38bov8jds5kqimqmr4sg; path=/
+      - PHPSESSID=36vfj9a3vqsu3on4pfp5jr99dd; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -336,7 +337,7 @@ http_interactions:
         Ale","style":"American-Style Pale Ale"},{"id":"3944c971-84d4-435c-9176-867f37717042","name":"Swingin''
         Utters Milk Stout","style":"American-Style Stout"},{"id":"93668933-38f6-4959-98da-ec46c36f2513","name":"Well
         Bred","style":"British-Style Barley Wine Ale"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:54 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/54b503e0-177a-4d73-a49d-74fd3df153cb/beer?latitude&longitude&search_radius
@@ -358,11 +359,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:12 GMT
+      - Thu, 20 Oct 2022 17:34:54 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=olm9cj2qrge4jjbbn3quvc11a4; path=/
+      - PHPSESSID=ejrn3b1eh2skfr2d7bfnceup7u; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -387,7 +388,7 @@ http_interactions:
         Yum Yum","style":"German-Style K\u00f6lsch \/ K\u00f6ln-Style K\u00f6lsch"},{"id":"a90b1e4b-4f87-4cef-8a71-6b146fbe5d3d","name":"Rye-25","style":"Rye
         Ale or Lager with or without Yeast"},{"id":"849f22e4-afb8-46b5-be49-8f5ecb3f4213","name":"Summit
         Sunrise","style":"Rye Ale or Lager with or without Yeast"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:54 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/cf6abc80-c8f5-4b57-90b2-628b857521a3/beer?latitude&longitude&search_radius
@@ -409,11 +410,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:12 GMT
+      - Thu, 20 Oct 2022 17:34:55 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=cv96059ucmepgm2l2i5dt4ht18; path=/
+      - PHPSESSID=6fjp2dk1ofjqqhblemb4t56q4v; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -438,7 +439,7 @@ http_interactions:
         Island Wit","style":"Belgian-Style White (or Wit) \/ Belgian-Style Wheat"},{"id":"880f078b-0459-4b99-8ae1-da26400a172b","name":"Stumbling
         Monk","style":"Sweet or Cream Stout"},{"id":"98defa7a-7472-4f55-b423-0af35160b823","name":"Stumbling
         Monk","style":"Sweet or Cream Stout"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:55 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -460,11 +461,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:12 GMT
+      - Thu, 20 Oct 2022 17:34:55 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=5bgsn1550vfjsrjiok7udhfhhl; path=/
+      - PHPSESSID=04mjn4td8hropm8puvfph1tl6s; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -472,7 +473,7 @@ http_interactions:
       Pragma:
       - no-cache
       Content-Length:
-      - '1615'
+      - '1735'
       Content-Type:
       - application/json
     body:
@@ -480,7 +481,8 @@ http_interactions:
       string: '{"object":"list","url":"\/brewer\/e2e7cd0a-9973-4abe-81ea-7b04f91e634c\/beer","has_more":false,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958},"data":[{"id":"66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10","name":"BLACK
         ARIA BALTIC PORTER","style":"PORTER"},{"id":"ee2d9de6-854d-4abe-b771-8f3015be107d","name":"BLACKBERRY
-        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
+        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"8d6ffec6-3897-47ae-87d4-2f552a2cb292","name":"Bryce
+        you are fucking this up!","style":"Stop! Just Stop! Bryce!"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
         KIND","style":"American Extra Special Bitter"},{"id":"261fb855-0604-44ba-8b93-c2be6215389b","name":"FADEAWAY
         I.P.A.","style":"Westcoast IPA"},{"id":"3a8238b8-e00a-46c4-abbb-f0b0427abe91","name":"HEADYBRAH
         OKTOBERFEST","style":"Oktoberfest"},{"id":"ea331a49-f5cb-4686-bfb8-3ca4804275a7","name":"HOP
@@ -490,7 +492,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:55 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/d0c4bb4b-4f64-4393-8c6a-788d5d25f288/beer?latitude&longitude&search_radius
@@ -512,11 +514,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:12 GMT
+      - Thu, 20 Oct 2022 17:34:55 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=oneoojsnmqsdp0g0vh9bu96dpv; path=/
+      - PHPSESSID=p5lkclmdt4kjjoiur3j850j7o9; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -556,7 +558,7 @@ http_interactions:
         Creeper","style":"Pumpkin Beer"},{"id":"a04faaf7-57d5-4164-b031-4aebacf07ca7","name":"Warning
         Sign","style":"German-Style Eisbock"},{"id":"bada1b05-cd7c-493e-bc1d-ba129f31c430","name":"Wilson
         Gone Wild","style":"American-Style Imperial Stout"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:12 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:55 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -578,11 +580,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:13 GMT
+      - Thu, 20 Oct 2022 17:34:55 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=qkvs1ck0cscsq3dpp3cqja5noh; path=/
+      - PHPSESSID=usd9t7lk248co98vnk6h14ojlf; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -590,7 +592,7 @@ http_interactions:
       Pragma:
       - no-cache
       Content-Length:
-      - '1615'
+      - '1735'
       Content-Type:
       - application/json
     body:
@@ -598,7 +600,8 @@ http_interactions:
       string: '{"object":"list","url":"\/brewer\/e2e7cd0a-9973-4abe-81ea-7b04f91e634c\/beer","has_more":false,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958},"data":[{"id":"66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10","name":"BLACK
         ARIA BALTIC PORTER","style":"PORTER"},{"id":"ee2d9de6-854d-4abe-b771-8f3015be107d","name":"BLACKBERRY
-        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
+        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"8d6ffec6-3897-47ae-87d4-2f552a2cb292","name":"Bryce
+        you are fucking this up!","style":"Stop! Just Stop! Bryce!"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
         KIND","style":"American Extra Special Bitter"},{"id":"261fb855-0604-44ba-8b93-c2be6215389b","name":"FADEAWAY
         I.P.A.","style":"Westcoast IPA"},{"id":"3a8238b8-e00a-46c4-abbb-f0b0427abe91","name":"HEADYBRAH
         OKTOBERFEST","style":"Oktoberfest"},{"id":"ea331a49-f5cb-4686-bfb8-3ca4804275a7","name":"HOP
@@ -608,7 +611,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:13 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:55 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/9e79b12d-d409-4823-99db-fe0b4b43330f/beer?latitude&longitude&search_radius
@@ -630,11 +633,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:13 GMT
+      - Thu, 20 Oct 2022 17:34:56 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=i51n11neip58si69mudls1kl9g; path=/
+      - PHPSESSID=5huj3gp1sg533a90g99hi1ev1g; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -658,7 +661,7 @@ http_interactions:
         Export","style":"Scottish-Style Export Ale"},{"id":"6b203a36-46b8-4ce8-880d-aac2389499cc","name":"Scottish
         Export","style":"Scottish-Style Export Ale"},{"id":"e81d23c0-9b3d-4fe0-b2bf-0a7d23ec17f6","name":"Sellars
         ESB","style":"Extra Special Bitter"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:13 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:56 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -680,11 +683,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 18 Oct 2022 23:56:13 GMT
+      - Thu, 20 Oct 2022 17:34:56 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=2adujffdru14nhq4s60hm12p2k; path=/
+      - PHPSESSID=ohmoqo0gd3g8apoudq1p98h10i; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -692,7 +695,7 @@ http_interactions:
       Pragma:
       - no-cache
       Content-Length:
-      - '1615'
+      - '1735'
       Content-Type:
       - application/json
     body:
@@ -700,7 +703,8 @@ http_interactions:
       string: '{"object":"list","url":"\/brewer\/e2e7cd0a-9973-4abe-81ea-7b04f91e634c\/beer","has_more":false,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958},"data":[{"id":"66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10","name":"BLACK
         ARIA BALTIC PORTER","style":"PORTER"},{"id":"ee2d9de6-854d-4abe-b771-8f3015be107d","name":"BLACKBERRY
-        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
+        OR RASPBERRY WHEAT","style":"American Wheat Beer"},{"id":"8d6ffec6-3897-47ae-87d4-2f552a2cb292","name":"Bryce
+        you are fucking this up!","style":"Stop! Just Stop! Bryce!"},{"id":"9b340ca8-bcc5-46f2-8db1-c2e76e934c54","name":"COLORADO
         KIND","style":"American Extra Special Bitter"},{"id":"261fb855-0604-44ba-8b93-c2be6215389b","name":"FADEAWAY
         I.P.A.","style":"Westcoast IPA"},{"id":"3a8238b8-e00a-46c4-abbb-f0b0427abe91","name":"HEADYBRAH
         OKTOBERFEST","style":"Oktoberfest"},{"id":"ea331a49-f5cb-4686-bfb8-3ca4804275a7","name":"HOP
@@ -710,5 +714,5 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Tue, 18 Oct 2022 23:56:13 GMT
+  recorded_at: Thu, 20 Oct 2022 17:34:56 GMT
 recorded_with: VCR 6.1.0

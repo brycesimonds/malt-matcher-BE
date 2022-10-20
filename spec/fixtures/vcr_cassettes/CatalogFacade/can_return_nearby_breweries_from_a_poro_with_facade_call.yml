@@ -1,0 +1,84 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.catalog.beer/location/nearby?latitude=39.738453&longitude=-104.984853&search_radius=50
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Authorization:
+      - Basic NTFhMmMyMjYtMTFmYy00NTNkLWJkZDItZTlkOTg3ZWQzZjU4Og==
+      User-Agent:
+      - Faraday v2.6.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Thu, 20 Oct 2022 17:34:52 GMT
+      Server:
+      - Apache/2.4.52 (Ubuntu)
+      Set-Cookie:
+      - PHPSESSID=dfr0ttr1o4bep8bu12socc5kiu; path=/
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Pragma:
+      - no-cache
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json
+    body:
+      encoding: UTF-8
+      string: '{"object":"list","url":"\/location\/nearby","has_more":false,"data":[{"location":{"id":"e12758af-e7c6-4a32-b044-aabb91bb4bb0","object":"location","name":"Vine
+        Street Pub and Brewery","brewer_id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.7434731,"longitude":-104.9619904,"telephone":3033882337,"address":{"address1":null,"address2":"1700
+        Vine St","city":"Denver","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80206,"zip4":1120}},"distance":{"distance":1.3,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}},{"location":{"id":"17250c9f-08f8-49ec-a285-9924f4ca1cda","object":"location","name":"Denver","brewer_id":"200e1e9b-e073-42b6-92d4-e4bb26beedff","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.7602768,"longitude":-105.0039673,"telephone":3037291175,"address":{"address1":null,"address2":"2540
+        19th St","city":"Denver","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80211,"zip4":3910}},"distance":{"distance":1.8,"units":"miles"},"brewer":{"id":"200e1e9b-e073-42b6-92d4-e4bb26beedff","object":"brewer","name":"Prost
+        Brewing Company","description":null,"short_description":null,"url":"https:\/\/prostbrewing.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/ProstBrewing","twitter_url":"https:\/\/twitter.com\/ProstBrewing","instagram_url":"https:\/\/www.instagram.com\/prostbrewingco\/"}},{"location":{"id":"b8748fb7-398d-4e62-a768-9720a0918e70","object":"location","name":"Denver","brewer_id":"54b503e0-177a-4d73-a49d-74fd3df153cb","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.7770462,"longitude":-105.0007477,"telephone":0,"address":{"address1":null,"address2":"4455
+        Jason St","city":"Denver","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80211,"zip4":2412}},"distance":{"distance":2.8,"units":"miles"},"brewer":{"id":"54b503e0-177a-4d73-a49d-74fd3df153cb","object":"brewer","name":"Denver
+        Beer Company","description":null,"short_description":null,"url":"http:\/\/denverbeerco.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/DenverBeerCompany\/","twitter_url":"https:\/\/twitter.com\/denverbeerco?lang=en","instagram_url":"https:\/\/www.instagram.com\/denverbeerco\/"}},{"location":{"id":"3bed0a53-9673-445b-afae-0606bcbeb1ce","object":"location","name":"Denver","brewer_id":"a5f1bafa-ae10-411e-a75a-3675b3966dd3","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.7030945,"longitude":-104.9324112,"telephone":3037590333,"address":{"address1":null,"address2":"4700
+        E Cherry Creek South Dr","city":"Denver","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80246,"zip4":1819}},"distance":{"distance":3.7,"units":"miles"},"brewer":{"id":"a5f1bafa-ae10-411e-a75a-3675b3966dd3","object":"brewer","name":"Bull
+        & Bush Pub & Brewery","description":null,"short_description":null,"url":"https:\/\/bullandbush.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/bullandbushbrewery\/","twitter_url":"https:\/\/twitter.com\/bandbmanbeer","instagram_url":"https:\/\/www.instagram.com\/bullandbushbrewery\/"}},{"location":{"id":"c37f50b3-1c1b-4e5a-9c95-a018f07dc6e3","object":"location","name":"Denver","brewer_id":"a522114b-84bd-4de8-94ab-2404bb31d99a","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.6922493,"longitude":-104.8909836,"telephone":7204432522,"address":{"address1":"Ste
+        100","address2":"1338 S Valentia St","city":"Denver","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80247,"zip4":2167}},"distance":{"distance":5.9,"units":"miles"},"brewer":{"id":"a522114b-84bd-4de8-94ab-2404bb31d99a","object":"brewer","name":"Copper
+        Kettle Brewing Company","description":null,"short_description":null,"url":"http:\/\/www.copperkettledenver.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/CopperKettleBrewing\/","twitter_url":"https:\/\/twitter.com\/CopperKettleDEN","instagram_url":"https:\/\/www.instagram.com\/copperkettlebrewing\/"}},{"location":{"id":"e51f8269-e8cd-4c3f-9603-c4c8f6574c5a","object":"location","name":"Arvada","brewer_id":"54b503e0-177a-4d73-a49d-74fd3df153cb","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.8015327,"longitude":-105.0809708,"telephone":0,"address":{"address1":null,"address2":"5768
+        Olde Wadsworth Blvd","city":"Arvada","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80002,"zip4":2549}},"distance":{"distance":6.7,"units":"miles"},"brewer":{"id":"54b503e0-177a-4d73-a49d-74fd3df153cb","object":"brewer","name":"Denver
+        Beer Company","description":null,"short_description":null,"url":"http:\/\/denverbeerco.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/DenverBeerCompany\/","twitter_url":"https:\/\/twitter.com\/denverbeerco?lang=en","instagram_url":"https:\/\/www.instagram.com\/denverbeerco\/"}},{"location":{"id":"e076efb8-3a0a-4406-87f3-cdce47e44afa","object":"location","name":"Littleton","brewer_id":"cf6abc80-c8f5-4b57-90b2-628b857521a3","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.5402489,"longitude":-105.0399704,"telephone":3032849585,"address":{"address1":"Unit
+        A","address2":"12305 Dumont Way","city":"Littleton","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80125,"zip4":9788}},"distance":{"distance":14,"units":"miles"},"brewer":{"id":"cf6abc80-c8f5-4b57-90b2-628b857521a3","object":"brewer","name":"Living
+        The Dream Brewing Co.","description":null,"short_description":null,"url":"http:\/\/livingthedreambrewing.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/livingthedreambrewing\/","twitter_url":"https:\/\/twitter.com\/livingdreambrew?lang=en","instagram_url":"https:\/\/www.instagram.com\/livingdreambrew\/"}},{"location":{"id":"c7bb05c8-6c76-4265-913f-bc2bd0660b8d","object":"location","name":"Southern
+        Sun Pub and Brewery","brewer_id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.9843178,"longitude":-105.2493668,"telephone":3035430886,"address":{"address1":null,"address2":"627
+        S Broadway St","city":"Boulder","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80305,"zip4":5944}},"distance":{"distance":22,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}},{"location":{"id":"85452b81-74b7-49b2-8b2c-ad0fbebe448e","object":"location","name":"Castle
+        Rock","brewer_id":"d0c4bb4b-4f64-4393-8c6a-788d5d25f288","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.4091339,"longitude":-104.8698578,"telephone":3038149273,"address":{"address1":null,"address2":"880
+        Castleton Rd","city":"Castle Rock","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80109,"zip4":7512}},"distance":{"distance":23.6,"units":"miles"},"brewer":{"id":"d0c4bb4b-4f64-4393-8c6a-788d5d25f288","object":"brewer","name":"Rockyard
+        Brewing Company","description":null,"short_description":null,"url":"https:\/\/rockyardbrewing.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/therockyard\/","twitter_url":"https:\/\/twitter.com\/rockyardbrewing","instagram_url":"https:\/\/www.instagram.com\/rockyardbrewing\/"}},{"location":{"id":"44815e22-1a55-4e4a-a908-e24d37ea1732","object":"location","name":"Boulder","brewer_id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":40.0190125,"longitude":-105.2752151,"telephone":3035460886,"address":{"address1":null,"address2":"1535
+        Pearl St","city":"Boulder","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80302,"zip4":5408}},"distance":{"distance":24.8,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}},{"location":{"id":"c00e2e4e-3272-449f-849d-7987672f586d","object":"location","name":"Castle
+        Rock","brewer_id":"9e79b12d-d409-4823-99db-fe0b4b43330f","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":39.3749542,"longitude":-104.8583908,"telephone":0,"address":{"address1":null,"address2":"514
+        Perry St","city":"Castle Rock","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80104,"zip4":1711}},"distance":{"distance":26,"units":"miles"},"brewer":{"id":"9e79b12d-d409-4823-99db-fe0b4b43330f","object":"brewer","name":"Castle
+        Rock Beer Co.","description":null,"short_description":null,"url":"https:\/\/www.castlerockbeerco.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/crbeerco\/","twitter_url":"https:\/\/twitter.com\/crbrewery?lang=en","instagram_url":"https:\/\/www.instagram.com\/castlerockbeer\/"}},{"location":{"id":"915e723d-147b-4cf1-933e-d6637e0dc148","object":"location","name":"Longs
+        Peak Pub","brewer_id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","url":null,"country_code":"US","country_short_name":"United
+        States of America","latitude":40.1708984,"longitude":-105.1029587,"telephone":3036517886,"address":{"address1":null,"address2":"600
+        Longs Peak Ave","city":"Longmont","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80501,"zip4":4001}},"distance":{"distance":30.5,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
+        Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}}]}'
+  recorded_at: Thu, 20 Oct 2022 17:34:52 GMT
+recorded_with: VCR 6.1.0

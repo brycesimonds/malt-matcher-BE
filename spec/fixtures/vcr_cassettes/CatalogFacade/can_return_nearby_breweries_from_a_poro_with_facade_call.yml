@@ -21,11 +21,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:11 GMT
+      - Thu, 20 Oct 2022 21:41:44 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=v3de2qi6e58knohlbumka6gf5e; path=/
+      - PHPSESSID=on0828214ot8c2ej52crulaoal; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -80,5 +80,5 @@ http_interactions:
         States of America","latitude":40.1708984,"longitude":-105.1029587,"telephone":3036517886,"address":{"address1":null,"address2":"600
         Longs Peak Ave","city":"Longmont","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80501,"zip4":4001}},"distance":{"distance":30.5,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:11 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:43 GMT
 recorded_with: VCR 6.1.0

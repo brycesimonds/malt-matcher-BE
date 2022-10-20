@@ -21,11 +21,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:12 GMT
+      - Thu, 20 Oct 2022 21:41:44 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=bnkd2osgkb8q5frpl3vq1sbna4; path=/
+      - PHPSESSID=7a9hitrjqajpjtcti1vn54ml5a; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -80,7 +80,7 @@ http_interactions:
         States of America","latitude":40.1708984,"longitude":-105.1029587,"telephone":3036517886,"address":{"address1":null,"address2":"600
         Longs Peak Ave","city":"Longmont","sub_code":"US-CO","state_short":"CO","state_long":"Colorado","zip5":80501,"zip4":4001}},"distance":{"distance":30.5,"units":"miles"},"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/"}}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:12 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:44 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -102,11 +102,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:12 GMT
+      - Thu, 20 Oct 2022 21:41:44 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=flooujvrea3tam2r06f3lk7448; path=/
+      - PHPSESSID=v58v45kmpjjqmrcdgpm7uc98ko; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -133,7 +133,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:12 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:44 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/200e1e9b-e073-42b6-92d4-e4bb26beedff/beer?latitude&longitude&search_radius
@@ -155,11 +155,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:12 GMT
+      - Thu, 20 Oct 2022 21:41:44 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=sl08rerc7s0n8u6qa1ihckrp6i; path=/
+      - PHPSESSID=mirk096smplu7b03jq9b7ighls; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -181,7 +181,7 @@ http_interactions:
         Pils","style":"German-Style Pilsener"},{"id":"93f67d9d-6d5c-4e2c-8eb8-45bcf3d966b5","name":"Wei\u00dfbier","style":"South
         German-Style Hefeweizen \/ Hefeweissbier"},{"id":"dc025f77-6989-42e3-8daa-1e26daddd994","name":"Wei\u00dfbier","style":"South
         German-Style Hefeweizen \/ Hefeweissbier"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:12 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:44 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/54b503e0-177a-4d73-a49d-74fd3df153cb/beer?latitude&longitude&search_radius
@@ -203,11 +203,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:12 GMT
+      - Thu, 20 Oct 2022 21:41:45 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=7houloj24jp49hk9mn46mstffi; path=/
+      - PHPSESSID=74nlhgenm45u7mg9qsbai0aqlm; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -232,7 +232,7 @@ http_interactions:
         Yum Yum","style":"German-Style K\u00f6lsch \/ K\u00f6ln-Style K\u00f6lsch"},{"id":"a90b1e4b-4f87-4cef-8a71-6b146fbe5d3d","name":"Rye-25","style":"Rye
         Ale or Lager with or without Yeast"},{"id":"849f22e4-afb8-46b5-be49-8f5ecb3f4213","name":"Summit
         Sunrise","style":"Rye Ale or Lager with or without Yeast"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:12 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:45 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/a5f1bafa-ae10-411e-a75a-3675b3966dd3/beer?latitude&longitude&search_radius
@@ -254,11 +254,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:12 GMT
+      - Thu, 20 Oct 2022 21:41:45 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=mss9lp62srjme38jnv5hhqeivl; path=/
+      - PHPSESSID=kf0jepvu0fr14aa9l6sccgjaam; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -276,7 +276,7 @@ http_interactions:
         Anniversary","style":"Belgian-Style Dark Strong Ale"},{"id":"e09c7c09-c852-4e4b-b512-19154299e561","name":"Release
         the Hounds","style":"American-Style Barley Wine Ale"},{"id":"92e1c3b8-b559-4549-96b7-799167bbdc58","name":"Yule
         Fuel","style":"Herb and Spice Beer"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:12 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:45 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/a522114b-84bd-4de8-94ab-2404bb31d99a/beer?latitude&longitude&search_radius
@@ -298,11 +298,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:13 GMT
+      - Thu, 20 Oct 2022 21:41:45 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=pcrolj8fj85td2a9fsd3pqed7d; path=/
+      - PHPSESSID=g16a5drfuu5udksksbfv4c7h1b; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -337,7 +337,7 @@ http_interactions:
         Ale","style":"American-Style Pale Ale"},{"id":"3944c971-84d4-435c-9176-867f37717042","name":"Swingin''
         Utters Milk Stout","style":"American-Style Stout"},{"id":"93668933-38f6-4959-98da-ec46c36f2513","name":"Well
         Bred","style":"British-Style Barley Wine Ale"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:12 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:45 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/54b503e0-177a-4d73-a49d-74fd3df153cb/beer?latitude&longitude&search_radius
@@ -359,11 +359,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:13 GMT
+      - Thu, 20 Oct 2022 21:41:45 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=p5kr0a51tpn2e4846fmr00guas; path=/
+      - PHPSESSID=5bqqqe4ib0cbgfvcarlgc75ovb; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -388,7 +388,7 @@ http_interactions:
         Yum Yum","style":"German-Style K\u00f6lsch \/ K\u00f6ln-Style K\u00f6lsch"},{"id":"a90b1e4b-4f87-4cef-8a71-6b146fbe5d3d","name":"Rye-25","style":"Rye
         Ale or Lager with or without Yeast"},{"id":"849f22e4-afb8-46b5-be49-8f5ecb3f4213","name":"Summit
         Sunrise","style":"Rye Ale or Lager with or without Yeast"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:13 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:45 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/cf6abc80-c8f5-4b57-90b2-628b857521a3/beer?latitude&longitude&search_radius
@@ -410,11 +410,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:13 GMT
+      - Thu, 20 Oct 2022 21:41:46 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=b6pngchv6mal3mi8117gg5esag; path=/
+      - PHPSESSID=b82r22ltvnpd0kf2kamsjpnjub; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -439,7 +439,7 @@ http_interactions:
         Island Wit","style":"Belgian-Style White (or Wit) \/ Belgian-Style Wheat"},{"id":"880f078b-0459-4b99-8ae1-da26400a172b","name":"Stumbling
         Monk","style":"Sweet or Cream Stout"},{"id":"98defa7a-7472-4f55-b423-0af35160b823","name":"Stumbling
         Monk","style":"Sweet or Cream Stout"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:13 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:45 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -461,11 +461,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:13 GMT
+      - Thu, 20 Oct 2022 21:41:46 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=vi8lf85rkk10olj2rk0b5crik0; path=/
+      - PHPSESSID=9o8q2heu0so3810ebo7pisp2ed; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -492,7 +492,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:13 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:46 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/d0c4bb4b-4f64-4393-8c6a-788d5d25f288/beer?latitude&longitude&search_radius
@@ -514,11 +514,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:13 GMT
+      - Thu, 20 Oct 2022 21:41:46 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=861im0ac199i947tro4365rcnc; path=/
+      - PHPSESSID=te4l83egdobf0g153go94gnls4; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -558,7 +558,7 @@ http_interactions:
         Creeper","style":"Pumpkin Beer"},{"id":"a04faaf7-57d5-4164-b031-4aebacf07ca7","name":"Warning
         Sign","style":"German-Style Eisbock"},{"id":"bada1b05-cd7c-493e-bc1d-ba129f31c430","name":"Wilson
         Gone Wild","style":"American-Style Imperial Stout"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:13 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:46 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -580,11 +580,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:13 GMT
+      - Thu, 20 Oct 2022 21:41:46 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=pprjkon9rbb9an6uienb0du1m0; path=/
+      - PHPSESSID=gab8f9pdebuvnb57jkfqkkmaic; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -611,7 +611,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:13 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:46 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/9e79b12d-d409-4823-99db-fe0b4b43330f/beer?latitude&longitude&search_radius
@@ -633,11 +633,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:14 GMT
+      - Thu, 20 Oct 2022 21:41:46 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=0pkhpj9sdehrjc5jtulrfcbf09; path=/
+      - PHPSESSID=39os0kq9dbfhqh3170qj235pc5; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -661,7 +661,7 @@ http_interactions:
         Export","style":"Scottish-Style Export Ale"},{"id":"6b203a36-46b8-4ce8-880d-aac2389499cc","name":"Scottish
         Export","style":"Scottish-Style Export Ale"},{"id":"e81d23c0-9b3d-4fe0-b2bf-0a7d23ec17f6","name":"Sellars
         ESB","style":"Extra Special Bitter"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:14 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:46 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -683,11 +683,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:14 GMT
+      - Thu, 20 Oct 2022 21:41:47 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=rfegq5pppicp5i8sietq6lbqif; path=/
+      - PHPSESSID=augjeler0vvge0nufbcr4o4jid; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -714,7 +714,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:14 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:47 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -736,11 +736,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:14 GMT
+      - Thu, 20 Oct 2022 21:41:47 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=rcr6eb12og5obls2nq5vkkvglr; path=/
+      - PHPSESSID=agtlc73ikmdd23rr4qn73qblse; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -767,7 +767,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:14 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:47 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10?latitude&longitude&search_radius
@@ -789,11 +789,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:14 GMT
+      - Thu, 20 Oct 2022 21:41:47 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=p30un0bpaaduafobbsnre5lgmd; path=/
+      - PHPSESSID=7cu9tol0jbur9blbg38mr02r6a; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -813,7 +813,7 @@ http_interactions:
         instead of ale yeast. Rich malt flavors of dark raisin and caramel meld with
         a righteous roastiness that has a pleasant lingering aftertaste.","abv":7.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111786,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:14 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:47 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/ee2d9de6-854d-4abe-b771-8f3015be107d?latitude&longitude&search_radius
@@ -835,11 +835,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:14 GMT
+      - Thu, 20 Oct 2022 21:41:47 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=9ttpo387itoglbh68m7r8p6ath; path=/
+      - PHPSESSID=4h12mvlu45kcmau60ef2283qdn; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -859,7 +859,7 @@ http_interactions:
         a soft texture while the citrus aromas from American hops mingle with the
         flavor of the Blackberries or Raspberries.","abv":5.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112115,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:14 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:47 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/8d6ffec6-3897-47ae-87d4-2f552a2cb292?latitude&longitude&search_radius
@@ -881,11 +881,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:15 GMT
+      - Thu, 20 Oct 2022 21:41:48 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=6b3t12k0or5qn9gvjuv135rkc1; path=/
+      - PHPSESSID=naiq6le63pt3a09f0aa0dq43av; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -902,7 +902,7 @@ http_interactions:
         you are fucking this up!","style":"Stop! Just Stop! Bryce!","description":"God
         damnit Bryce!","abv":10,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666218054,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:15 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:47 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/9b340ca8-bcc5-46f2-8db1-c2e76e934c54?latitude&longitude&search_radius
@@ -924,11 +924,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:15 GMT
+      - Thu, 20 Oct 2022 21:41:48 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=tkgj0akaiutuq4as3nrti18l6l; path=/
+      - PHPSESSID=afq9a30dp5rb068cr03pa0n509; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -949,7 +949,7 @@ http_interactions:
         Colorado Kind to be a surprisingly approachable hoppy beer. Just ask for a
         pint of \u201cthe dank\u201d!","abv":6.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112041,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:15 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:48 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/261fb855-0604-44ba-8b93-c2be6215389b?latitude&longitude&search_radius
@@ -971,11 +971,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:15 GMT
+      - Thu, 20 Oct 2022 21:41:48 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=08li5ksvaonoavq6keftfmpns1; path=/
+      - PHPSESSID=j6ha235q76rplvepbq8mnba0dq; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -996,7 +996,7 @@ http_interactions:
         hops impart citrus notes reminiscent of orange and tangerine, which are complemented
         by the classic grapefruit character of Chinook hops.","abv":6.7,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111921,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:15 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:48 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/3a8238b8-e00a-46c4-abbb-f0b0427abe91?latitude&longitude&search_radius
@@ -1018,11 +1018,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:15 GMT
+      - Thu, 20 Oct 2022 21:41:48 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=einohsv004d3o9ra9qrc7ju5a6; path=/
+      - PHPSESSID=s07sl0925viavsi8vkfhl1rdek; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1044,7 +1044,7 @@ http_interactions:
         as the start of the Oktoberfest Festival in Munich, which actually starts
         during the end of September.","abv":5.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111871,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:15 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:48 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/ea331a49-f5cb-4686-bfb8-3ca4804275a7?latitude&longitude&search_radius
@@ -1066,11 +1066,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:15 GMT
+      - Thu, 20 Oct 2022 21:41:48 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=av49kg40dr0hvvmoplpm73ekk1; path=/
+      - PHPSESSID=00acndllrko8kdjnt68j1dkfjg; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1090,7 +1090,7 @@ http_interactions:
         pine and a hint of resiny dankness. The malts provide a solid backbone and
         flavors of light caramel which complement the hop bitterness, flavor and aroma.","abv":9.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111956,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:15 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:48 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/4b8027c0-97d4-4324-905f-abae609076d6?latitude&longitude&search_radius
@@ -1112,11 +1112,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:15 GMT
+      - Thu, 20 Oct 2022 21:41:49 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=l485fsa0tsjbofl4pv0khh0lgo; path=/
+      - PHPSESSID=hvl2gt6p9g0v1dfg7sgrh53fap; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1135,7 +1135,7 @@ http_interactions:
         air Feel its power Glowing glass of liquid grain and flowers Friends, gather
         round Let''s hug it out With a unified voice, give a soulful shout MEADOWS!","abv":6.7,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112158,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:15 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:49 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/04c4e7ab-722f-4e60-a447-4826f2c7b9fc?latitude&longitude&search_radius
@@ -1157,11 +1157,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:16 GMT
+      - Thu, 20 Oct 2022 21:41:49 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=bq2hh5dd7kadpfivu9a5ebi7n5; path=/
+      - PHPSESSID=07a19jr7k7aptb0jeq2rg92ura; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1181,7 +1181,7 @@ http_interactions:
         by flaked corn is complemented by a balanced bitterness. This lager is crisp,
         refreshing, and full of flavor. A true American original!","abv":6.1,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111672,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:16 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:49 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/10058e29-8ec3-4587-9be4-6079c1a2fe25?latitude&longitude&search_radius
@@ -1203,11 +1203,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:16 GMT
+      - Thu, 20 Oct 2022 21:41:49 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=pvdifg2diha25pqkaqmusdtt61; path=/
+      - PHPSESSID=922gkivdg11378ov6f4a6cqr1j; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1227,7 +1227,7 @@ http_interactions:
         notes of mango and melon rind. Everyone taps in for birdie and we\u2019ve
         got a Star Frame! Hive fives all around!","abv":6.9,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111709,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:16 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:49 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/d5a5a6ef-4bc6-4744-b5f4-eac89ad94636?latitude&longitude&search_radius
@@ -1249,11 +1249,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:16 GMT
+      - Thu, 20 Oct 2022 21:41:49 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=c6a0ce4daac3k2eckoifqf6deq; path=/
+      - PHPSESSID=9krn0q9hm7u49fiv4bshmdo84t; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1274,7 +1274,7 @@ http_interactions:
         pure vanilla extract and toasted oak spirals give the impression of a barrel-aged
         stout without having undergone the barrel-aging process.","abv":8,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111751,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:16 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:49 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/bbc2b6b2-0096-493e-81c6-4571aa27270e?latitude&longitude&search_radius
@@ -1296,11 +1296,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:16 GMT
+      - Thu, 20 Oct 2022 21:41:50 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=uprc0887up22fedo7fe9e8omc6; path=/
+      - PHPSESSID=a3iaai1i1vu1llsorohv30nvhu; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1319,7 +1319,7 @@ http_interactions:
         Ale boasts a prominent hop bitterness, but is balanced by a pleasant malt
         sweetness and a citrusy, piney hop aroma provided by American hops.","abv":7.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111993,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:16 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:49 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -1341,11 +1341,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:16 GMT
+      - Thu, 20 Oct 2022 21:41:50 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=ujjjpqpi9kqfg0neenf1qjed4v; path=/
+      - PHPSESSID=3130v807gpk122o6e1e96eqk3b; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1372,7 +1372,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:16 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:50 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10?latitude&longitude&search_radius
@@ -1394,11 +1394,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:17 GMT
+      - Thu, 20 Oct 2022 21:41:50 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=k2mrtfmfnd4o381b9qf6s0bf6g; path=/
+      - PHPSESSID=i0bov973elldkbtvnnts4nomeb; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1418,7 +1418,7 @@ http_interactions:
         instead of ale yeast. Rich malt flavors of dark raisin and caramel meld with
         a righteous roastiness that has a pleasant lingering aftertaste.","abv":7.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111786,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:17 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:50 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/ee2d9de6-854d-4abe-b771-8f3015be107d?latitude&longitude&search_radius
@@ -1440,11 +1440,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:17 GMT
+      - Thu, 20 Oct 2022 21:41:50 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=2rfe1dot0l84tp7uhlpokusd8q; path=/
+      - PHPSESSID=mni3s5k201hgnvn27p1d2fd4c9; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1464,7 +1464,7 @@ http_interactions:
         a soft texture while the citrus aromas from American hops mingle with the
         flavor of the Blackberries or Raspberries.","abv":5.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112115,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:17 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:50 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/8d6ffec6-3897-47ae-87d4-2f552a2cb292?latitude&longitude&search_radius
@@ -1486,11 +1486,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:17 GMT
+      - Thu, 20 Oct 2022 21:41:50 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=870pb23ilb5i7biadgsg6cj96p; path=/
+      - PHPSESSID=i318dkm77dq9jp9fv7ihe5f1ss; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1507,7 +1507,7 @@ http_interactions:
         you are fucking this up!","style":"Stop! Just Stop! Bryce!","description":"God
         damnit Bryce!","abv":10,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666218054,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:17 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:50 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/9b340ca8-bcc5-46f2-8db1-c2e76e934c54?latitude&longitude&search_radius
@@ -1529,11 +1529,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:17 GMT
+      - Thu, 20 Oct 2022 21:41:51 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=f62ntpkeetmc2epju141och0pv; path=/
+      - PHPSESSID=c1qchlin506iccmuhcdk9sf1o3; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1554,7 +1554,7 @@ http_interactions:
         Colorado Kind to be a surprisingly approachable hoppy beer. Just ask for a
         pint of \u201cthe dank\u201d!","abv":6.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112041,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:17 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:51 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/261fb855-0604-44ba-8b93-c2be6215389b?latitude&longitude&search_radius
@@ -1576,11 +1576,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:17 GMT
+      - Thu, 20 Oct 2022 21:41:51 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=r073vbpuikgqpu252lajp420qq; path=/
+      - PHPSESSID=9r14qg7pt62qol6ra9hbdpksk6; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1601,7 +1601,7 @@ http_interactions:
         hops impart citrus notes reminiscent of orange and tangerine, which are complemented
         by the classic grapefruit character of Chinook hops.","abv":6.7,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111921,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:17 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:51 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/3a8238b8-e00a-46c4-abbb-f0b0427abe91?latitude&longitude&search_radius
@@ -1623,11 +1623,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:18 GMT
+      - Thu, 20 Oct 2022 21:41:51 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=bp0f1qbl1h3c9ht8u34sih9hg8; path=/
+      - PHPSESSID=4g7i6753j450gqrc68vt46ij8d; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1649,7 +1649,7 @@ http_interactions:
         as the start of the Oktoberfest Festival in Munich, which actually starts
         during the end of September.","abv":5.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111871,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:18 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:51 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/ea331a49-f5cb-4686-bfb8-3ca4804275a7?latitude&longitude&search_radius
@@ -1671,11 +1671,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:18 GMT
+      - Thu, 20 Oct 2022 21:41:51 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=te585uo9qktl2dvprubv9c4cih; path=/
+      - PHPSESSID=56e4nudc92sdjc59b26792otub; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1695,7 +1695,7 @@ http_interactions:
         pine and a hint of resiny dankness. The malts provide a solid backbone and
         flavors of light caramel which complement the hop bitterness, flavor and aroma.","abv":9.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111956,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:18 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:51 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/4b8027c0-97d4-4324-905f-abae609076d6?latitude&longitude&search_radius
@@ -1717,11 +1717,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:18 GMT
+      - Thu, 20 Oct 2022 21:41:52 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=7kd0ht0a8u3qcpl3m6cbdapdo1; path=/
+      - PHPSESSID=7n859tg72npcfgbtj6rgglki9r; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1740,7 +1740,7 @@ http_interactions:
         air Feel its power Glowing glass of liquid grain and flowers Friends, gather
         round Let''s hug it out With a unified voice, give a soulful shout MEADOWS!","abv":6.7,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112158,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:18 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:51 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/04c4e7ab-722f-4e60-a447-4826f2c7b9fc?latitude&longitude&search_radius
@@ -1762,11 +1762,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:18 GMT
+      - Thu, 20 Oct 2022 21:41:52 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=jcj7nrjjtn5pbp2lp89nhr5nq7; path=/
+      - PHPSESSID=k81gp00tkn58hggm7seob5djrt; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1786,7 +1786,7 @@ http_interactions:
         by flaked corn is complemented by a balanced bitterness. This lager is crisp,
         refreshing, and full of flavor. A true American original!","abv":6.1,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111672,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:18 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:52 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/10058e29-8ec3-4587-9be4-6079c1a2fe25?latitude&longitude&search_radius
@@ -1808,11 +1808,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:18 GMT
+      - Thu, 20 Oct 2022 21:41:52 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=rdph61b4uoeg3d766v6endfo23; path=/
+      - PHPSESSID=qrcndr4rf3b5o62ci7r8j7m7uj; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1832,7 +1832,7 @@ http_interactions:
         notes of mango and melon rind. Everyone taps in for birdie and we\u2019ve
         got a Star Frame! Hive fives all around!","abv":6.9,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111709,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:18 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:52 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/d5a5a6ef-4bc6-4744-b5f4-eac89ad94636?latitude&longitude&search_radius
@@ -1854,11 +1854,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:19 GMT
+      - Thu, 20 Oct 2022 21:41:52 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=q8s24ptvj8vq7b5esapem5r7tc; path=/
+      - PHPSESSID=p8hi77qc5d6gitnl6l9555b51l; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1879,7 +1879,7 @@ http_interactions:
         pure vanilla extract and toasted oak spirals give the impression of a barrel-aged
         stout without having undergone the barrel-aging process.","abv":8,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111751,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:18 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:52 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/bbc2b6b2-0096-493e-81c6-4571aa27270e?latitude&longitude&search_radius
@@ -1901,11 +1901,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:19 GMT
+      - Thu, 20 Oct 2022 21:41:52 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=7dopqvol6rv4od8ka3dfn8f1a2; path=/
+      - PHPSESSID=noshrprjpkeah0kh5q0n3bcvtj; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1924,7 +1924,7 @@ http_interactions:
         Ale boasts a prominent hop bitterness, but is balanced by a pleasant malt
         sweetness and a citrusy, piney hop aroma provided by American hops.","abv":7.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111993,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:19 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:52 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -1946,11 +1946,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:19 GMT
+      - Thu, 20 Oct 2022 21:41:53 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=b53mrpmihc3i54s1biskgor3j9; path=/
+      - PHPSESSID=6ci6j0hnoj8kjbqjaf0uh00p4m; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -1977,7 +1977,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:19 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:53 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10?latitude&longitude&search_radius
@@ -1999,11 +1999,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:19 GMT
+      - Thu, 20 Oct 2022 21:41:53 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=v663gjcs8giusr9ubc3l1j13ai; path=/
+      - PHPSESSID=khosbfjbbkcv098luhupd9i9ag; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2023,7 +2023,7 @@ http_interactions:
         instead of ale yeast. Rich malt flavors of dark raisin and caramel meld with
         a righteous roastiness that has a pleasant lingering aftertaste.","abv":7.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111786,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:19 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:53 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/ee2d9de6-854d-4abe-b771-8f3015be107d?latitude&longitude&search_radius
@@ -2045,11 +2045,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:19 GMT
+      - Thu, 20 Oct 2022 21:41:53 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=mi371j4jol5a48q8gbd12h4jfi; path=/
+      - PHPSESSID=ageje3fgllll7usg3vja337g8d; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2069,7 +2069,7 @@ http_interactions:
         a soft texture while the citrus aromas from American hops mingle with the
         flavor of the Blackberries or Raspberries.","abv":5.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112115,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:19 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:53 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/8d6ffec6-3897-47ae-87d4-2f552a2cb292?latitude&longitude&search_radius
@@ -2091,11 +2091,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:19 GMT
+      - Thu, 20 Oct 2022 21:41:53 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=u9eng9v5sab112rddgfhr7tgn7; path=/
+      - PHPSESSID=5cla88utavc6vrk0i6ku9cn7ge; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2112,7 +2112,7 @@ http_interactions:
         you are fucking this up!","style":"Stop! Just Stop! Bryce!","description":"God
         damnit Bryce!","abv":10,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666218054,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:19 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:53 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/9b340ca8-bcc5-46f2-8db1-c2e76e934c54?latitude&longitude&search_radius
@@ -2134,11 +2134,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:20 GMT
+      - Thu, 20 Oct 2022 21:41:54 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=e8pfn7dcf1kilh6nrakoudv48i; path=/
+      - PHPSESSID=aqnv8ak3lidtt9i90n5mqvu36j; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2159,7 +2159,7 @@ http_interactions:
         Colorado Kind to be a surprisingly approachable hoppy beer. Just ask for a
         pint of \u201cthe dank\u201d!","abv":6.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112041,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:20 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:53 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/261fb855-0604-44ba-8b93-c2be6215389b?latitude&longitude&search_radius
@@ -2181,11 +2181,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:20 GMT
+      - Thu, 20 Oct 2022 21:41:54 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=cft53ksko19v8l4gsmt12qiqbd; path=/
+      - PHPSESSID=0mlmhi8t17ga2amckdqpj7cc5b; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2206,7 +2206,7 @@ http_interactions:
         hops impart citrus notes reminiscent of orange and tangerine, which are complemented
         by the classic grapefruit character of Chinook hops.","abv":6.7,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111921,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:20 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:54 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/3a8238b8-e00a-46c4-abbb-f0b0427abe91?latitude&longitude&search_radius
@@ -2228,11 +2228,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:20 GMT
+      - Thu, 20 Oct 2022 21:41:54 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=6dseg6hbhed44fgpk00vhjb1r5; path=/
+      - PHPSESSID=i2cm25isv10rluu8v7nb69mpbj; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2254,7 +2254,7 @@ http_interactions:
         as the start of the Oktoberfest Festival in Munich, which actually starts
         during the end of September.","abv":5.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111871,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:20 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:54 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/ea331a49-f5cb-4686-bfb8-3ca4804275a7?latitude&longitude&search_radius
@@ -2276,11 +2276,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:20 GMT
+      - Thu, 20 Oct 2022 21:41:54 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=foolrobksdu9naqbutit0v5qoi; path=/
+      - PHPSESSID=l8pi40481e7dtj7rigqarv58ig; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2300,7 +2300,7 @@ http_interactions:
         pine and a hint of resiny dankness. The malts provide a solid backbone and
         flavors of light caramel which complement the hop bitterness, flavor and aroma.","abv":9.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111956,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:20 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:54 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/4b8027c0-97d4-4324-905f-abae609076d6?latitude&longitude&search_radius
@@ -2322,11 +2322,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:20 GMT
+      - Thu, 20 Oct 2022 21:41:54 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=356t6s8bdk7ltmfghv8rn0s4ip; path=/
+      - PHPSESSID=oedg4jt0uea70b891qluh7lsb4; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2345,7 +2345,7 @@ http_interactions:
         air Feel its power Glowing glass of liquid grain and flowers Friends, gather
         round Let''s hug it out With a unified voice, give a soulful shout MEADOWS!","abv":6.7,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112158,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:20 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:54 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/04c4e7ab-722f-4e60-a447-4826f2c7b9fc?latitude&longitude&search_radius
@@ -2367,11 +2367,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:21 GMT
+      - Thu, 20 Oct 2022 21:41:55 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=56u0sm7ju9bq7lp5o29e4avoe1; path=/
+      - PHPSESSID=39jnsmv1m8if1tdk1rpqt5730q; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2391,7 +2391,7 @@ http_interactions:
         by flaked corn is complemented by a balanced bitterness. This lager is crisp,
         refreshing, and full of flavor. A true American original!","abv":6.1,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111672,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:21 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:55 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/10058e29-8ec3-4587-9be4-6079c1a2fe25?latitude&longitude&search_radius
@@ -2413,11 +2413,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:21 GMT
+      - Thu, 20 Oct 2022 21:41:55 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=sotuv67hcdt5hijq9ssbgitite; path=/
+      - PHPSESSID=e8lmblg059vl65aish0oajanrb; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2437,7 +2437,7 @@ http_interactions:
         notes of mango and melon rind. Everyone taps in for birdie and we\u2019ve
         got a Star Frame! Hive fives all around!","abv":6.9,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111709,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:21 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:55 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/d5a5a6ef-4bc6-4744-b5f4-eac89ad94636?latitude&longitude&search_radius
@@ -2459,11 +2459,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:21 GMT
+      - Thu, 20 Oct 2022 21:41:55 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=32ul04vo8jmphmapn69ctjom38; path=/
+      - PHPSESSID=rvs9vst9hd5fin1cle9fj74bt1; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2484,7 +2484,7 @@ http_interactions:
         pure vanilla extract and toasted oak spirals give the impression of a barrel-aged
         stout without having undergone the barrel-aging process.","abv":8,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111751,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:21 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:55 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/bbc2b6b2-0096-493e-81c6-4571aa27270e?latitude&longitude&search_radius
@@ -2506,11 +2506,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:21 GMT
+      - Thu, 20 Oct 2022 21:41:55 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=c2aun2395rg4cu6ajq96fqffnc; path=/
+      - PHPSESSID=6nur41snr5rs4tj2d0kfk7uh2m; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2529,7 +2529,7 @@ http_interactions:
         Ale boasts a prominent hop bitterness, but is balanced by a pleasant malt
         sweetness and a citrusy, piney hop aroma provided by American hops.","abv":7.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111993,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:21 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:55 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/brewer/e2e7cd0a-9973-4abe-81ea-7b04f91e634c/beer?latitude&longitude&search_radius
@@ -2551,11 +2551,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:21 GMT
+      - Thu, 20 Oct 2022 21:41:56 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=290uu11pbcllgnhjc064p0bh9t; path=/
+      - PHPSESSID=mkpfjh24miiuf5s0she67oq7lf; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2582,7 +2582,7 @@ http_interactions:
         FRAME I.P.A.","style":"IPA"},{"id":"d5a5a6ef-4bc6-4744-b5f4-eac89ad94636","name":"STOKED
         OAK STOUT","style":"Stout"},{"id":"bbc2b6b2-0096-493e-81c6-4571aa27270e","name":"XXX
         PALE","style":"Pale Ale"}]}'
-  recorded_at: Thu, 20 Oct 2022 01:44:21 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:55 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10?latitude&longitude&search_radius
@@ -2604,11 +2604,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:22 GMT
+      - Thu, 20 Oct 2022 21:41:56 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=fcqssgi0rnjgo2rjuu3gvcio9e; path=/
+      - PHPSESSID=9al0qnv6ithnvdehfuvur7jsv2; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2628,7 +2628,7 @@ http_interactions:
         instead of ale yeast. Rich malt flavors of dark raisin and caramel meld with
         a righteous roastiness that has a pleasant lingering aftertaste.","abv":7.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111786,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:22 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:56 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/ee2d9de6-854d-4abe-b771-8f3015be107d?latitude&longitude&search_radius
@@ -2650,11 +2650,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:22 GMT
+      - Thu, 20 Oct 2022 21:41:56 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=81qsmj6rsidjipdvugbc4ssl3a; path=/
+      - PHPSESSID=38fhno4k17uj47a6ssrd22rhgp; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2674,7 +2674,7 @@ http_interactions:
         a soft texture while the citrus aromas from American hops mingle with the
         flavor of the Blackberries or Raspberries.","abv":5.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112115,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:22 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:56 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/8d6ffec6-3897-47ae-87d4-2f552a2cb292?latitude&longitude&search_radius
@@ -2696,11 +2696,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:22 GMT
+      - Thu, 20 Oct 2022 21:41:56 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=5f55sb7orn63s75gjq5oj8eojv; path=/
+      - PHPSESSID=rmb4v3645es8ntcug7a27pre7f; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2717,7 +2717,7 @@ http_interactions:
         you are fucking this up!","style":"Stop! Just Stop! Bryce!","description":"God
         damnit Bryce!","abv":10,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666218054,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:22 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:56 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/9b340ca8-bcc5-46f2-8db1-c2e76e934c54?latitude&longitude&search_radius
@@ -2739,11 +2739,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:22 GMT
+      - Thu, 20 Oct 2022 21:41:56 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=529gavnejolopt3oghgpnvuu45; path=/
+      - PHPSESSID=m96u1c2k9rh2ubr9trbc8932jo; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2764,7 +2764,7 @@ http_interactions:
         Colorado Kind to be a surprisingly approachable hoppy beer. Just ask for a
         pint of \u201cthe dank\u201d!","abv":6.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112041,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:22 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:56 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/261fb855-0604-44ba-8b93-c2be6215389b?latitude&longitude&search_radius
@@ -2786,11 +2786,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:22 GMT
+      - Thu, 20 Oct 2022 21:41:57 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=l7mo04kdrr56rmdej1k04pc5s2; path=/
+      - PHPSESSID=rc6hbaceoj9gd3kfeglptsdsj7; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2811,7 +2811,7 @@ http_interactions:
         hops impart citrus notes reminiscent of orange and tangerine, which are complemented
         by the classic grapefruit character of Chinook hops.","abv":6.7,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111921,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:22 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:56 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/3a8238b8-e00a-46c4-abbb-f0b0427abe91?latitude&longitude&search_radius
@@ -2833,11 +2833,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:22 GMT
+      - Thu, 20 Oct 2022 21:41:57 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=oh770u2eocdm03o561k4aeh5e4; path=/
+      - PHPSESSID=0b12pkjfh62n8k0ok95mr2nbch; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2859,7 +2859,7 @@ http_interactions:
         as the start of the Oktoberfest Festival in Munich, which actually starts
         during the end of September.","abv":5.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111871,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:22 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:57 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/ea331a49-f5cb-4686-bfb8-3ca4804275a7?latitude&longitude&search_radius
@@ -2881,11 +2881,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:23 GMT
+      - Thu, 20 Oct 2022 21:41:57 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=7sc0irk1c16pp47t5l157sdprp; path=/
+      - PHPSESSID=vemmb9585hoo4ngg7k9r027moj; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2905,7 +2905,7 @@ http_interactions:
         pine and a hint of resiny dankness. The malts provide a solid backbone and
         flavors of light caramel which complement the hop bitterness, flavor and aroma.","abv":9.2,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111956,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:23 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:57 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/4b8027c0-97d4-4324-905f-abae609076d6?latitude&longitude&search_radius
@@ -2927,11 +2927,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:23 GMT
+      - Thu, 20 Oct 2022 21:41:57 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=h6d8qmo1d25rda9343nkvjlj3c; path=/
+      - PHPSESSID=6pj00mg4cpisfg14lmdc3kirb5; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2950,7 +2950,7 @@ http_interactions:
         air Feel its power Glowing glass of liquid grain and flowers Friends, gather
         round Let''s hug it out With a unified voice, give a soulful shout MEADOWS!","abv":6.7,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666112158,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:23 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:57 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/04c4e7ab-722f-4e60-a447-4826f2c7b9fc?latitude&longitude&search_radius
@@ -2972,11 +2972,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:23 GMT
+      - Thu, 20 Oct 2022 21:41:57 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=d9913sgrrohu8qvkdctobfe4vr; path=/
+      - PHPSESSID=na9eumdj21ebg669cdr1ionnt4; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -2996,7 +2996,7 @@ http_interactions:
         by flaked corn is complemented by a balanced bitterness. This lager is crisp,
         refreshing, and full of flavor. A true American original!","abv":6.1,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111672,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:23 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:57 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/10058e29-8ec3-4587-9be4-6079c1a2fe25?latitude&longitude&search_radius
@@ -3018,11 +3018,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:23 GMT
+      - Thu, 20 Oct 2022 21:41:57 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=i4f5i65agvsq93vfj2kas82j66; path=/
+      - PHPSESSID=ul4uci1psegdnl9jc7pk3q52r8; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -3042,7 +3042,7 @@ http_interactions:
         notes of mango and melon rind. Everyone taps in for birdie and we\u2019ve
         got a Star Frame! Hive fives all around!","abv":6.9,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111709,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:23 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:57 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/d5a5a6ef-4bc6-4744-b5f4-eac89ad94636?latitude&longitude&search_radius
@@ -3064,11 +3064,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:23 GMT
+      - Thu, 20 Oct 2022 21:41:58 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=nhoanbjoqbgmb5vj07jstfsefs; path=/
+      - PHPSESSID=c2k2obeesfkrmgie4ll0c98due; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -3089,7 +3089,7 @@ http_interactions:
         pure vanilla extract and toasted oak spirals give the impression of a barrel-aged
         stout without having undergone the barrel-aging process.","abv":8,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111751,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:23 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:58 GMT
 - request:
     method: get
     uri: https://api.catalog.beer/beer/bbc2b6b2-0096-493e-81c6-4571aa27270e?latitude&longitude&search_radius
@@ -3111,11 +3111,11 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Thu, 20 Oct 2022 01:44:24 GMT
+      - Thu, 20 Oct 2022 21:41:58 GMT
       Server:
       - Apache/2.4.52 (Ubuntu)
       Set-Cookie:
-      - PHPSESSID=vavl9e6qi3fae083i1i4v2fm3r; path=/
+      - PHPSESSID=flclniqu7h6j93bfr00k1rqdpv; path=/
       Expires:
       - Thu, 19 Nov 1981 08:52:00 GMT
       Cache-Control:
@@ -3134,5 +3134,5 @@ http_interactions:
         Ale boasts a prominent hop bitterness, but is balanced by a pleasant malt
         sweetness and a citrusy, piney hop aroma provided by American hops.","abv":7.6,"ibu":null,"cb_verified":false,"brewer_verified":false,"last_modified":1666111993,"brewer":{"id":"e2e7cd0a-9973-4abe-81ea-7b04f91e634c","object":"brewer","name":"Mountain
         Sun Brewery","description":null,"short_description":null,"url":"http:\/\/www.mountainsunpub.com\/","cb_verified":true,"brewer_verified":false,"facebook_url":"https:\/\/www.facebook.com\/mountainsunpub","twitter_url":"https:\/\/twitter.com\/mountainsunpub","instagram_url":"https:\/\/www.instagram.com\/mountainsunpub\/","last_modified":1519601958}}'
-  recorded_at: Thu, 20 Oct 2022 01:44:24 GMT
+  recorded_at: Thu, 20 Oct 2022 21:41:58 GMT
 recorded_with: VCR 6.1.0

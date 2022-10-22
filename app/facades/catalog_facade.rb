@@ -16,11 +16,15 @@ class CatalogFacade
       brewery_objects.each do |brewery_data| 
           brewer_beers_json = CatalogService.get_beers(brewery_data.catalog_brewery_id)
           
-          wip2 = brewer_beers_json[:data].map do |beer|
-            beer[:style].include?(style)
+          array_of_booleans_for_if_brewery_contains_style = brewer_beers_json[:data].map do |beer|
+            if beer[:style] == "IPA"
+              beer[:style].include?(style) || beer[:style].downcase.include?("india pale ale")
+            else
+              beer[:style].include?(style)
+            end
           end 
 
-          if wip2.include?(true)
+          if array_of_booleans_for_if_brewery_contains_style.include?(true)
             breweries_that_have_style_of_beer << brewery_data
           end
         end
@@ -38,3 +42,17 @@ class CatalogFacade
       end
     end
   end
+
+
+  #   if style == "IPA"
+  #     if new_beer_on_beer_table.style.include?(style)
+  #       breweries_that_have_style_of_beer << single_brewery_object
+  #     elsif new_beer_on_beer_table.style.downcase.include?("india pale ale")
+  #       breweries_that_have_style_of_beer << single_brewery_object
+  #     end
+  #   elsif new_beer_on_beer_table.style.include?(style)
+  #     breweries_that_have_style_of_beer << single_brewery_object
+  #   end 
+  # end 
+  # end
+  # return breweries_that_have_style_of_beer.uniq

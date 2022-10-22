@@ -42,17 +42,3 @@ class CatalogFacade
       end
     end
   end
-
-
-  #   if style == "IPA"
-  #     if new_beer_on_beer_table.style.include?(style)
-  #       breweries_that_have_style_of_beer << single_brewery_object
-  #     elsif new_beer_on_beer_table.style.downcase.include?("india pale ale")
-  #       breweries_that_have_style_of_beer << single_brewery_object
-  #     end
-  #   elsif new_beer_on_beer_table.style.include?(style)
-  #     breweries_that_have_style_of_beer << single_brewery_object
-  #   end 
-  # end 
-  # end
-  # return breweries_that_have_style_of_beer.uniq

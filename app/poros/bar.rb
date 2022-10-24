@@ -11,7 +11,7 @@ class Bar
 
   def initialize(data)
     @catalog_brewery_id = data[:brewer][:id]
-    @name = data[:brewer][:name]
+    @name = "#{data[:location][:name]} - #{data[:brewer][:name]}"
     @address = format_address(data)
     @distance_from_user = format_distance(data)
     @website = data[:brewer][:url]

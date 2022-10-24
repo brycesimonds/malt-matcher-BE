@@ -10,15 +10,19 @@ class CatalogFacade
       end
     end
 
-    def brewer_beers(brewery_objects, style)
+    def brewer_beers(brewery_objects, user_style)
       breweries_that_have_style_of_beer = []
       brewery_objects.flatten.each do |single_brewery|
-        if style == "IPA"
-          if single_brewery.beers.where("style ILIKE ?", "%#{style}%").present? || single_brewery.beers.where(style.downcase == "india pale ale").present?
+        if user_style == "IPA"
+          if single_brewery.beers.find_all {|beer| beer.style.downcase == "india pale ale"}.present?
+            breweries_that_have_style_of_beer << single_brewery
+          elsif single_brewery.beers.find_all {|beer| beer.style.downcase.include?("#{user_style.downcase}")}.present?
             breweries_that_have_style_of_beer << single_brewery
           end
-        elsif single_brewery.beers.where("style ILIKE ?", "%#{style}%").present?
-          breweries_that_have_style_of_beer << single_brewery
+        else
+          if single_brewery.beers.find_all {|beer| beer.style.downcase.include?("#{user_style.downcase}")}.present?
+            breweries_that_have_style_of_beer << single_brewery
+          end
         end
       end 
       return breweries_that_have_style_of_beer

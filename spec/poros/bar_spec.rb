@@ -15,7 +15,7 @@ RSpec.describe Bar do
     expect(brewery.distance_from_user).to eq("1.3 miles")
     expect(brewery.facebook).to eq("https://www.facebook.com/mountainsunpub")
     expect(brewery.instagram).to eq("https://www.instagram.com/mountainsunpub/")
-    expect(brewery.name).to eq("Mountain Sun Brewery")
+    expect(brewery.name).to eq("Vine Street Pub and Brewery - Mountain Sun Brewery")
     expect(brewery.twitter).to eq("https://twitter.com/mountainsunpub")
     expect(brewery.website).to eq("http://www.mountainsunpub.com/")
   end

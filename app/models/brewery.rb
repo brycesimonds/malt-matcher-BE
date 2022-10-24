@@ -6,8 +6,8 @@ class Brewery < ApplicationRecord
   validates_presence_of :address
   validates_presence_of :distance_from_user
   validates_presence_of :brewery_description, allow_blank: true 
-  validates_presence_of :website
-  validates_presence_of :instagram
-  validates_presence_of :facebook
-  validates_presence_of :twitter
+  validates_presence_of :website, allow_blank: true 
+  validates_presence_of :instagram, allow_blank: true 
+  validates_presence_of :facebook, allow_blank: true 
+  validates_presence_of :twitter, allow_blank: true 
 end

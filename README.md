@@ -11,16 +11,24 @@ Cheers!
 ## Backend Table of Contents 
 
 ## Local Setup
-
-## Setup Steps 
-
+This project requires:
+ * `Ruby 2.7.4`
+ * `Rails 5.2.8.1`
+### Setup Steps
+ * Fork the repository
+ * Clone the fork
+ * Install gems and set up your database:
+   * `bundle install`
+   * `rails db:create`
+   * `rails db:migrate`
+ * Install Figaro
+   * `bundle exec figaro install`
+ * Update the `application.yml` file with `ENV` variables storing API keys for [Catalog Beer API Documentation](https://catalog.beer/api-docs) and  (pages for obtaining API keys linked)
 ## Deployment 
 
 ## Endpoints 
 
 ## Contributors 
-
-
 ### Backend 
 - **Parker Thomson** - [GitHub](https://github.com/pdthomson) - [LinkedIn](https://www.linkedin.com/in/parker-thomson-a15a68146/)
 - **Bryan Shears**  - [GitHub](https://github.com/b-shears) - [LinkedIn](https://github.com/b-shears)

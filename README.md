@@ -23,7 +23,8 @@ This project requires:
    * `rails db:migrate`
  * Install Figaro
    * `bundle exec figaro install`
- * Update the `application.yml` file with `ENV` variables storing API keys for [Catalog Beer API Documentation](https://catalog.beer/api-docs) and  (pages for obtaining API keys linked)
+ * Update the `application.yml` file with `ENV` variables storing API keys for [Mapquest Api Documentation](https://developer.mapquest.com/documentation/)
+ * [Catalog Beer API Documentation](https://catalog.beer/api-docs)
 ## Deployment 
 
 ## Endpoints 

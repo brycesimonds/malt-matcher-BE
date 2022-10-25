@@ -1,11 +1,12 @@
 class CatalogService
   class << self
-    def get_url(url, lat = nil, long = nil, radius = nil)
+    def get_url(url, lat = nil, long = nil, radius = nil, brewery_quantity = 200)
       conn = Faraday.new(url: 'https://api.catalog.beer') do |faraday|
         faraday.headers['Authorization'] = ENV['catalog_api_key']
         faraday.params[:latitude] = lat
         faraday.params[:longitude] = long
         faraday.params[:search_radius] = radius
+        faraday.params[:count] = brewery_quantity
       end
 
       response = conn.get(url)

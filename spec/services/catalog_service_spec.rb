@@ -45,7 +45,7 @@ RSpec.describe 'Catalog API' do
     data = beer_abv_ibu
     
     expect(data).to be_a(Hash)
-    expect(data[:abv]).to be_a(Integer)
+    expect(data[:abv]).to be_a(Numeric)
     expect(data[:ibu]).to be_a(Integer)
   end
 end

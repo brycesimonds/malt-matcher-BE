@@ -6,7 +6,8 @@ class CatalogFacade
         Bar.new(breweries) 
       end
       brewery_objects.flat_map do |brewery|
-        Brewery.where(address: brewery.address)
+        found_brewery = Brewery.where(address: brewery.address)
+        found_brewery.update(distance_from_user: brewery.distance_from_user)
       end
     end
 

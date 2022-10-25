@@ -10,7 +10,7 @@ RSpec.describe 'Map Quest API' do
 
     location_information = MapService.get_location(city_state)
     lat_long = location_information[:results][0][:locations][0]
-
+    MapService
     expect(location_information).to be_a(Hash)
     expect(location_information).to have_key(:results)
     expect(location_information[:results][0]).to have_key(:locations)

@@ -9,6 +9,7 @@ RSpec.describe Bar do
     brewery = Bar.new(parsed_json[:data][0])
 
     expect(brewery).to be_a(Bar)
+    expect(brewery).to_not be_a(Drink)
     expect(brewery.address).to eq("1700 Vine St, Denver, CO 80206")
     expect(brewery.brewery_description).to eq(nil)
     expect(brewery.catalog_brewery_id).to eq("e2e7cd0a-9973-4abe-81ea-7b04f91e634c")

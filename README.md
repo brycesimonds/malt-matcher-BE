@@ -8,14 +8,13 @@
         development process to create an app that centers around something we
         are all passionate about: BEER!
 </h2>
-
-We worked with a React Framework on the [front-end](https://github.com/malt-matcher/malt-matcher-FE) and Ruby on Rails on the [back-end](https://github.com/malt-matcher/malt-matcher-BE), and on both sides, we implemented GraphQL to create this app to find the breweries that carried our brew of choice. 
+## About This Project
+We worked with a React Framework on the [front-end](https://github.com/malt-matcher/malt-matcher-FE) and Ruby on Rails on the [back-end](https://github.com/malt-matcher/malt-matcher-BE), and on both sides, we implemented GraphQL to create this app to find the breweries that carried our brew of choice. The backend GraphQL API allows the client to access the full capabilities of the API data from a single end point.
   
 We hope you enjoy our app while you're here! Please feel free to reach out to any of us!
  
 Cheers!
   
-
 ## Backend Table of Contents 
 * [Local Setup](https://github.com/malt-matcher/malt-matcher-BE/blob/main/README.md#local-setup)
 * [Deployment](https://github.com/BandAid-2205/bandaid-2205-be/blob/main/README.md#deployment)
@@ -54,6 +53,8 @@ Follow Postman Demo Instructions Below:
 6. Check out the all the fun Breweries and their Beers in the response!
 7. If you click the 'body' tab (which is next to the 'headers' tab), you can checkout our GraphQL query!
 ```
+### Schema
+ <img alt="Schema" src="https://user-images.githubusercontent.com/101689311/198137076-f3232158-2628-4702-adf3-7af193a096b5.png" width="600px" />
 
 ## Contributors 
 ### Backend 

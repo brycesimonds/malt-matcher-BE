@@ -7,18 +7,14 @@
         developers both collaborated on, and spearheaded different ends of the
         development process to create an app that centers around something we
         are all passionate about: BEER!
-  <img alt="last_supper" src="https://user-images.githubusercontent.com/101689311/198138435-3dd9ce78-9ec8-45d6-a380-27e5c216e7b9.png" width="738px"/>
 </h2>
-
 ## About This Project
-We worked with a React Framework on the [front-end](https://github.com/malt-matcher/malt-matcher-FE) and Ruby on Rails on the 
-[back-end](https://github.com/malt-matcher/malt-matcher-BE), and on both sides, we implemented GraphQL to create this app to find the breweries that carried our brew of choice. The backend GraphQL API allows the client to access the full capabilities of the API data from a single end point.
+We worked with a React Framework on the [front-end](https://github.com/malt-matcher/malt-matcher-FE) and Ruby on Rails on the [back-end](https://github.com/malt-matcher/malt-matcher-BE), and on both sides, we implemented GraphQL to create this app to find the breweries that carried our brew of choice. The backend GraphQL API allows the client to access the full capabilities of the API data from a single end point.
   
 We hope you enjoy our app while you're here! Please feel free to reach out to any of us!
  
 Cheers!
-
-
+  
 ## Backend Table of Contents 
 * [Local Setup](https://github.com/malt-matcher/malt-matcher-BE/blob/main/README.md#local-setup)
 * [Deployment](https://github.com/BandAid-2205/bandaid-2205-be/blob/main/README.md#deployment)
@@ -42,7 +38,18 @@ This project requires:
 ## Deployment 
   malt-matcher-be is deployed remotely on Heroku. 
   Base URL: https://malt-matchers-be.herokuapp.com/
-## Endpoints 
+## Postman Examples 
+
+All requests begin with this base URL: https://malt-matchers-be.herokuapp.com/ and all GraphQL responses respond to POST /graphql requests only. Query information will need to be sent in the body of the request, as shown in the following GIFs.
+### Request/Response For Nearby Breweries That Have The Beer Style The User Is Searching For
+![Nearby Breweries](https://user-images.githubusercontent.com/103782984/198139088-55ca1b46-bad0-4dc4-b390-bd2b1f9cb2d0.gif)
+
+### Request/Response For Nearby Breweries and All Of Their Beers Including The One Style Searched For
+![Brewery's Beers](https://user-images.githubusercontent.com/103782984/198139523-62b0ae2c-ee70-40ed-8b84-c7af4b7d8374.gif)
+
+### With GraphQL The Front End Team Can Pick And Choose What Data They Want To See Utilizing The Same POST /graphql Request
+![Pick and choose attributes](https://user-images.githubusercontent.com/103782984/198139916-2822b032-7fab-478e-b61a-0d00406052be.gif)
+
 
 ## Postman Demo - Nearby Brewery Beers Endpoint (Mock)
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/0e0f7441ce76be5d52c2?action=collection%2Fimport#?env%5Bmock%20test%5D=W3sia2V5IjoibWFsdG1hdGNoZXJVUkwiLCJ2YWx1ZSI6Imh0dHBzOi8vODljNWRhOGYtNTg3OS00YzNhLTk1OWYtMTAxZWIwOGExNzI0Lm1vY2sucHN0bW4uaW8iLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoidGV4dCIsInNlc3Npb25WYWx1ZSI6Imh0dHBzOi8vODljNWRhOGYtNTg3OS00YzNhLTk1OWYtMTAxZWIwOGExNzI0Lm1vY2sucHN0bW4uaW8iLCJzZXNzaW9uSW5kZXgiOjB9XQ==)
@@ -57,7 +64,7 @@ Follow Postman Demo Instructions Below:
 6. Check out the all the fun Breweries and their Beers in the response!
 7. If you click the 'body' tab (which is next to the 'headers' tab), you can checkout our GraphQL query!
 ```
-## Schema
+### Schema
  <img alt="Schema" src="https://user-images.githubusercontent.com/101689311/198137076-f3232158-2628-4702-adf3-7af193a096b5.png" width="600px" />
 
 ## Contributors 

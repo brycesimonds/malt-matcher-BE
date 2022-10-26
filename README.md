@@ -1,7 +1,8 @@
 <h2 align="center">
-  <img alt="funky" src="./src/assets/mmlogo.png" width="738px"/>
+  <img alt="funky" src="https://user-images.githubusercontent.com/101689311/198134861-747472e4-5380-40eb-974c-cc979681d6d1.png" width="738px"/>
 <br>
 <br>
+
   Malt Matcher is the brain-child of Cole Stephenson, where a group of 7
         developers both collaborated on, and spearheaded different ends of the
         development process to create an app that centers around something we

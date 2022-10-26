@@ -34,9 +34,10 @@ This project requires:
  * Install Figaro
    * `bundle exec figaro install`
  * Update the `application.yml` file with `ENV` variables storing API keys for [Mapquest API Documentation](https://developer.mapquest.com/documentation/)
- * [Catalog Beer API Documentation](https://catalog.beer/api-docs)
+ * [Catalog Beer API Documentation](https://catalog.beer/api-docs) (No API Key required)
 ## Deployment 
-
+  malt-matcher-be is deployed remotely on Heroku. 
+  Base URL: https://malt-matchers-be.herokuapp.com/
 ## Endpoints 
 
 ## Postman Demo - Nearby Brewery Beers Endpoint (Mock)

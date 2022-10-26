@@ -38,7 +38,7 @@ This project requires:
 ## Deployment 
   malt-matcher-be is deployed remotely on Heroku. 
   Base URL: https://malt-matchers-be.herokuapp.com/
-## Endpoints 
+## Postman Examples 
 
 All requests begin with this base URL: https://malt-matchers-be.herokuapp.com/ and all GraphQL responses respond to POST /graphql requests only. Query information will need to be sent in the body of the request, as shown in the following GIFs.
 

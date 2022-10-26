@@ -41,13 +41,13 @@ This project requires:
 ## Postman Examples 
 
 All requests begin with this base URL: https://malt-matchers-be.herokuapp.com/ and all GraphQL responses respond to POST /graphql requests only. Query information will need to be sent in the body of the request, as shown in the following GIFs.
-### Request/Response For Nearby Breweries That Have The Beer Style The User Is Searching For
+### 1. Request/Response For Nearby Breweries That Have The Beer Style The User Is Searching For
 ![Nearby Breweries](https://user-images.githubusercontent.com/103782984/198139088-55ca1b46-bad0-4dc4-b390-bd2b1f9cb2d0.gif)
 
-### Request/Response For Nearby Breweries and All Of Their Beers Including The One Style Searched For
+### 2. Request/Response For Nearby Breweries and All Of Their Beers Including The One Style Searched For
 ![Brewery's Beers](https://user-images.githubusercontent.com/103782984/198139523-62b0ae2c-ee70-40ed-8b84-c7af4b7d8374.gif)
 
-### With GraphQL The Front End Team Can Pick And Choose What Data They Want To See Utilizing The Same POST /graphql Request
+### 3. With GraphQL The Front End Team Can Pick And Choose What Data They Want To See Utilizing The Same POST /graphql Request
 ![Pick and choose attributes](https://user-images.githubusercontent.com/103782984/198139916-2822b032-7fab-478e-b61a-0d00406052be.gif)
 
 

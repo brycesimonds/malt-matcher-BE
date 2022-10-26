@@ -7,16 +7,14 @@
         developers both collaborated on, and spearheaded different ends of the
         development process to create an app that centers around something we
         are all passionate about: BEER!
-  <img alt="last_supper" src="https://user-images.githubusercontent.com/101689311/198138435-3dd9ce78-9ec8-45d6-a380-27e5c216e7b9.png" width="738px"/>
 </h2>
 ## About This Project
-```
 We worked with a React Framework on the [front-end](https://github.com/malt-matcher/malt-matcher-FE) and Ruby on Rails on the [back-end](https://github.com/malt-matcher/malt-matcher-BE), and on both sides, we implemented GraphQL to create this app to find the breweries that carried our brew of choice. The backend GraphQL API allows the client to access the full capabilities of the API data from a single end point.
   
 We hope you enjoy our app while you're here! Please feel free to reach out to any of us!
  
 Cheers!
-```  
+  
 ## Backend Table of Contents 
 * [Local Setup](https://github.com/malt-matcher/malt-matcher-BE/blob/main/README.md#local-setup)
 * [Deployment](https://github.com/BandAid-2205/bandaid-2205-be/blob/main/README.md#deployment)
@@ -41,6 +39,11 @@ This project requires:
   malt-matcher-be is deployed remotely on Heroku. 
   Base URL: https://malt-matchers-be.herokuapp.com/
 ## Endpoints 
+
+All requests begin with this base URL: https://malt-matchers-be.herokuapp.com/ and all GraphQL responses respond to POST /graphql requests only. Query information will need to be sent in the body of the request, as shown in the following GIFs.
+
+![Nearby Breweries](https://user-images.githubusercontent.com/103782984/198139088-55ca1b46-bad0-4dc4-b390-bd2b1f9cb2d0.gif)
+
 
 ## Postman Demo - Nearby Brewery Beers Endpoint (Mock)
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/0e0f7441ce76be5d52c2?action=collection%2Fimport#?env%5Bmock%20test%5D=W3sia2V5IjoibWFsdG1hdGNoZXJVUkwiLCJ2YWx1ZSI6Imh0dHBzOi8vODljNWRhOGYtNTg3OS00YzNhLTk1OWYtMTAxZWIwOGExNzI0Lm1vY2sucHN0bW4uaW8iLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoidGV4dCIsInNlc3Npb25WYWx1ZSI6Imh0dHBzOi8vODljNWRhOGYtNTg3OS00YzNhLTk1OWYtMTAxZWIwOGExNzI0Lm1vY2sucHN0bW4uaW8iLCJzZXNzaW9uSW5kZXgiOjB9XQ==)

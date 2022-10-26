@@ -1,6 +1,15 @@
 ## About this Project 
-[Malt Matcher](https://github.com/malt-matcher) is the brain-child of Cole Stephenson, where a group of 7 developers both collaborated on, and spearheaded different ends of the development process to create an app that centers around something we are all passionate about: BEER! 
-  
+
+<h2 align="center">
+  <img alt="funky" src="./src/assets/mmlogo.png" width="738px"/>
+<br>
+<br>
+  Malt Matcher is the brain-child of Cole Stephenson, where a group of 7
+        developers both collaborated on, and spearheaded different ends of the
+        development process to create an app that centers around something we
+        are all passionate about: BEER!
+</h2>
+
 We worked with a React Framework on the [front-end](https://github.com/malt-matcher/malt-matcher-FE) and Ruby on Rails on the [back-end](https://github.com/malt-matcher/malt-matcher-BE), and on both sides, we implemented GraphQL to create this app to find the breweries that carried our brew of choice. 
   
 We hope you enjoy our app while you're here! Please feel free to reach out to any of us!

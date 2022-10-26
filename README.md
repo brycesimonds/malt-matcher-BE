@@ -29,6 +29,20 @@ This project requires:
 
 ## Endpoints 
 
+## Postman Demo - Nearby Brewery Beers Endpoint (Mock)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/0e0f7441ce76be5d52c2?action=collection%2Fimport#?env%5Bmock%20test%5D=W3sia2V5IjoibWFsdG1hdGNoZXJVUkwiLCJ2YWx1ZSI6Imh0dHBzOi8vODljNWRhOGYtNTg3OS00YzNhLTk1OWYtMTAxZWIwOGExNzI0Lm1vY2sucHN0bW4uaW8iLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoidGV4dCIsInNlc3Npb25WYWx1ZSI6Imh0dHBzOi8vODljNWRhOGYtNTg3OS00YzNhLTk1OWYtMTAxZWIwOGExNzI0Lm1vY2sucHN0bW4uaW8iLCJzZXNzaW9uSW5kZXgiOjB9XQ==)
+
+Follow Postman Demo Instructions Below:
+```
+1. Select 'Postman for Web' or 'Postman for Mac'.
+2. Select a any workspace then select 'Import'.
+3. Click open the 'Nearby Breweries' collection then the 'POST Get Brewery with Location and Radius' call.
+4. Above the blue 'Send' button ensure 'mock test' is selected as your environment.
+5. Click the 'Send' button.
+6. Check out the all the fun Breweries and their Beers in the response!
+7. If you click the 'body' tab (which is next to the 'headers' tab), you can checkout our GraphQL query!
+```
+
 ## Contributors 
 ### Backend 
 - **Parker Thomson** - [GitHub](https://github.com/pdthomson) - [LinkedIn](https://www.linkedin.com/in/parker-thomson-a15a68146/)

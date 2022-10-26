@@ -16,6 +16,8 @@ Cheers!
   
 
 ## Backend Table of Contents 
+[Local Setup](https://github.com/malt-matcher/malt-matcher-BE/blob/main/README.md#local-setup)
+[Deployment](https://github.com/BandAid-2205/bandaid-2205-be/blob/main/README.md#deployment)
 
 ## Local Setup
 This project requires:

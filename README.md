@@ -1,5 +1,3 @@
-## About this Project 
-
 <h2 align="center">
   <img alt="funky" src="./src/assets/mmlogo.png" width="738px"/>
 <br>

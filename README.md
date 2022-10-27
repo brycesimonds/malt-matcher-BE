@@ -78,3 +78,5 @@ Follow Postman Demo Instructions Below:
 - **Cole Stephenson** - [GitHub](https://github.com/colestephenson1) - [LinkedIn](https://www.linkedin.com/in/cole-stephenson-99688a240/)
 - **Jordan Farelli** - [GitHub](https://github.com/jfarelli) - [LinkedIn](https://www.linkedin.com/in/jordan-farelli/)
 - **Andrew Miller** - [GitHub](https://github.com/andrewmiller45) - [LinkedIn](https://www.linkedin.com/in/andrew-miller-0393b448/)
+
+<img alt="last_supper" src="https://user-images.githubusercontent.com/101689311/198330704-49e6d6c2-55da-417e-9b6a-ef81242dbfbf.png" width="600px"/>

@@ -18,7 +18,7 @@ Cheers!
 ## Backend Table of Contents 
 * [Local Setup](https://github.com/malt-matcher/malt-matcher-BE/blob/main/README.md#local-setup)
 * [Deployment](https://github.com/malt-matcher/malt-matcher-BE/blob/main/README.md#deployment)
-* [Postman Demo](https://github.com/malt-matcher/malt-matcher-BE/blob/main/README.md#postman-demo)
+* [Postman Examples](https://github.com/malt-matcher/malt-matcher-BE/blob/main/README.md#postman-examples)
 * [Contributors](https://github.com/malt-matcher/malt-matcher-BE/blob/main/README.md#contributors)
 ## Local Setup
 This project requires:

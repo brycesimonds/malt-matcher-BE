@@ -71,7 +71,7 @@ Follow Postman Demo Instructions Below:
 ## Contributors 
 ### Backend 
 - **Parker Thomson** - [GitHub](https://github.com/pdthomson) - [LinkedIn](https://www.linkedin.com/in/parker-thomson-a15a68146/)
-- **Bryan Shears**  - [GitHub](https://github.com/b-shears) - [LinkedIn](https://github.com/b-shears)
+- **Bryan Shears**  - [GitHub](https://github.com/b-shears) - [LinkedIn](https://www.linkedin.com/in/bryan-shears/)
 - **Thiago Silveira** - [GitHub](https://github.com/tig-o) - [LinkedIn](https://www.linkedin.com/in/thiag-o/)
 - **Bryce Simonds** - [GitHub](https://github.com/brycesimonds) - [LinkedIn](https://www.linkedin.com/in/bryce-simonds/)
 ### Frontend 
@@ -80,3 +80,68 @@ Follow Postman Demo Instructions Below:
 - **Andrew Miller** - [GitHub](https://github.com/andrewmiller45) - [LinkedIn](https://www.linkedin.com/in/andrew-miller-0393b448/)
 
 <img alt="last_supper" src="https://user-images.githubusercontent.com/101689311/198330704-49e6d6c2-55da-417e-9b6a-ef81242dbfbf.png"/>
+
+<br></br>
+## Contributors
+### Back End Team
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/90064385?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/101689311?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/6260483?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/103782984?s=120&v=4"></td>
+  </tr>
+  <tr>
+    <td>Parker Thomson</td>
+    <td>Bryan Shears</td>
+    <td>Thiago Silverira</td>
+    <td>Bryce Simonds</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/pdthomson">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/parker-thomson-a15a68146/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/b-shears">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/bryan-shears/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/tig-o">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/thiag-o/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/brycesimonds">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/bryce-simonds/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+
+### Front End Team
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/102827145?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/97558758?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/30582452?s=120&v=4"></td>
+  </tr>
+  <tr>
+    <td>Cole Stephenson</td>
+    <td>Jordan Farelli</td>
+    <td>Andrew Miller</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/colestephenson1">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/cole-stephenson-99688a240/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/jfarelli">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/jordan-farelli/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/andrewmiller45">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/andrew-miller-0393b448/">LinkedIn</a>
+    </td>
+  </tr>
+</table>

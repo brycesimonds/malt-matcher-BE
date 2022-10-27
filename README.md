@@ -68,20 +68,6 @@ Follow Postman Demo Instructions Below:
 ### Schema
  <img alt="Schema" src="https://user-images.githubusercontent.com/101689311/198137076-f3232158-2628-4702-adf3-7af193a096b5.png" width="600px" />
 
-## Contributors 
-### Backend 
-- **Parker Thomson** - [GitHub](https://github.com/pdthomson) - [LinkedIn](https://www.linkedin.com/in/parker-thomson-a15a68146/)
-- **Bryan Shears**  - [GitHub](https://github.com/b-shears) - [LinkedIn](https://www.linkedin.com/in/bryan-shears/)
-- **Thiago Silveira** - [GitHub](https://github.com/tig-o) - [LinkedIn](https://www.linkedin.com/in/thiag-o/)
-- **Bryce Simonds** - [GitHub](https://github.com/brycesimonds) - [LinkedIn](https://www.linkedin.com/in/bryce-simonds/)
-### Frontend 
-- **Cole Stephenson** - [GitHub](https://github.com/colestephenson1) - [LinkedIn](https://www.linkedin.com/in/cole-stephenson-99688a240/)
-- **Jordan Farelli** - [GitHub](https://github.com/jfarelli) - [LinkedIn](https://www.linkedin.com/in/jordan-farelli/)
-- **Andrew Miller** - [GitHub](https://github.com/andrewmiller45) - [LinkedIn](https://www.linkedin.com/in/andrew-miller-0393b448/)
-
-<img alt="last_supper" src="https://user-images.githubusercontent.com/101689311/198330704-49e6d6c2-55da-417e-9b6a-ef81242dbfbf.png"/>
-
-<br></br>
 ## Contributors
 ### Back End Team
 <table>

@@ -65,7 +65,11 @@ Follow Postman Demo Instructions Below:
 6. Check out the all the fun Breweries and their Beers in the response!
 7. If you click the 'body' tab (which is next to the 'headers' tab), you can checkout our GraphQL query!
 ```
-### Schema
+
+## Technology
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  
+## Database Schema
  <img alt="Schema" src="https://user-images.githubusercontent.com/101689311/198137076-f3232158-2628-4702-adf3-7af193a096b5.png" width="600px" />
 
 ## Contributors

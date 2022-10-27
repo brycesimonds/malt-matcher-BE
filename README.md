@@ -131,3 +131,7 @@ Follow Postman Demo Instructions Below:
     </td>
   </tr>
 </table>
+
+<br></br>
+
+![IMG_20221017_145209](https://user-images.githubusercontent.com/97558758/198148114-30fb80d6-ac60-45e1-a8da-bfe4e3069d4d.jpg)

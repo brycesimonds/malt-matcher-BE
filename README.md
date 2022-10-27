@@ -8,6 +8,7 @@
         development process to create an app that centers around something we
         are all passionate about: BEER!
 </h2>
+
 ## About This Project
 We worked with a React Framework on the [front-end](https://github.com/malt-matcher/malt-matcher-FE) and Ruby on Rails on the [back-end](https://github.com/malt-matcher/malt-matcher-BE), and on both sides, we implemented GraphQL to create this app to find the breweries that carried our brew of choice. The backend GraphQL API allows the client to access the full capabilities of the API data from a single end point.
   

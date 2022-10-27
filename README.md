@@ -121,7 +121,7 @@ Follow Postman Demo Instructions Below:
 ### Front End Team
 <table>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/102827145?s=120&v=4"></td>
+    <td><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGb4Cz7abZvSA/profile-displayphoto-shrink_100_100/0/1654282848515?e=1672272000&v=beta&t=_XCHMIsfE3hviF6ywSFFxI8Un4IexbQFOWBDhFTfEa0?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/97558758?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/30582452?s=120&v=4"></td>
   </tr>

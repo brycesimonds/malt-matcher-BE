@@ -3,8 +3,8 @@
 <br>
 <br>
 
-  Malt Matcher is the brain-child of Cole Stephenson, where a group of 7
-        developers both collaborated on, and spearheaded different ends of the
+  Malt Matcher is the hard work of a group of 7
+        developers that both collaborated on and spearheaded different ends of the
         development process to create an app that centers around something we
         are all passionate about: BEER!
 </h2>
